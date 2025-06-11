@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jee-van24/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/jee-van24/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/jee-van24/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3644-minimum-positive-sum-subarray](https://github.com/jee-van24/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jee-van24/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/jee-van24/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3644-minimum-positive-sum-subarray](https://github.com/jee-van24/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/jee-van24/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
