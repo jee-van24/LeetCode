@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/jee-van24/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/jee-van24/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0605-can-place-flowers](https://github.com/jee-van24/LeetCode/tree/master/0605-can-place-flowers) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jee-van24/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/jee-van24/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3644-minimum-positive-sum-subarray](https://github.com/jee-van24/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/jee-van24/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jee-van24/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/jee-van24/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jee-van24/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/jee-van24/LeetCode/tree/master/0605-can-place-flowers) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jee-van24/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 <!---LeetCode Topics End-->
