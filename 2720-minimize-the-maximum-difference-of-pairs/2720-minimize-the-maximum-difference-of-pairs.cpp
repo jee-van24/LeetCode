@@ -14,9 +14,9 @@ public:
         return false;
     }
     int minimizeMax(vector<int>& nums, int p) {
-        int low = 0, high = *max_element(nums.begin(), nums.end());
         int ans = 0;
         sort(nums.begin(), nums.end());
+        int low =0, high=nums.back()-nums.front();
         while (low <= high) {
             int mid = low + (high - low) / 2;
             if (is_diff_possible(nums, mid, p) == true) {
