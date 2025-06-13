@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/jee-van24/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/jee-van24/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0605-can-place-flowers](https://github.com/jee-van24/LeetCode/tree/master/0605-can-place-flowers) |
+| [1306-minimum-absolute-difference](https://github.com/jee-van24/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jee-van24/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/jee-van24/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3644-minimum-positive-sum-subarray](https://github.com/jee-van24/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/jee-van24/LeetCode/tree/master/0605-can-place-flowers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jee-van24/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1306-minimum-absolute-difference](https://github.com/jee-van24/LeetCode/tree/master/1306-minimum-absolute-difference) |
 <!---LeetCode Topics End-->
