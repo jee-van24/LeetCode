@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/jee-van24/LeetCode/tree/master/0605-can-place-flowers) |
 | [1306-minimum-absolute-difference](https://github.com/jee-van24/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jee-van24/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jee-van24/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jee-van24/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3221-find-the-peaks](https://github.com/jee-van24/LeetCode/tree/master/3221-find-the-peaks) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jee-van24/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/jee-van24/LeetCode/tree/master/0605-can-place-flowers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/jee-van24/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jee-van24/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/jee-van24/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jee-van24/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jee-van24/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-minimum-absolute-difference](https://github.com/jee-van24/LeetCode/tree/master/1306-minimum-absolute-difference) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jee-van24/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jee-van24/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Enumeration
 |  |
