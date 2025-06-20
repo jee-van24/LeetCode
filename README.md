@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jee-van24/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/jee-van24/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jee-van24/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0605-can-place-flowers](https://github.com/jee-van24/LeetCode/tree/master/0605-can-place-flowers) |
 | [1306-minimum-absolute-difference](https://github.com/jee-van24/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jee-van24/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -21,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jee-van24/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/jee-van24/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jee-van24/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jee-van24/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jee-van24/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jee-van24/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jee-van24/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jee-van24/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Greedy
 |  |
 | ------- |
