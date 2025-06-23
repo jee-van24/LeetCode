@@ -1,10 +1,15 @@
 class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
-        set<int> s1(nums1.begin(), nums1.end());
-        set<int> s2(nums2.begin(), nums2.end());
-        vector<int>res;
-        set_intersection(s1.begin(), s1.end(), s2.begin(), s2.end(), back_inserter(res));
-        return res;
+        unordered_set<int> set1(nums1.begin(), nums1.end());
+        unordered_set<int> result;
+
+        for (int num : nums2) {
+            if (set1.count(num)) {
+                result.insert(num);
+            }
+        }
+
+        return vector<int>(result.begin(), result.end());
     }
 };
