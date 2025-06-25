@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/jee-van24/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jee-van24/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/jee-van24/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jee-van24/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jee-van24/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/jee-van24/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
