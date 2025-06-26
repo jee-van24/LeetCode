@@ -19,7 +19,7 @@ public:
                 res += s[k];
             }
             res += ' ';
-            i = j + 1;  // Optional adjustment; your original i = j - 1 also works
+            i = j; 
         }
 
         if (!res.empty() && res.back() == ' ') {
