@@ -6,11 +6,13 @@ public:
         for( int i=0;i<s.size();i++){
             char ch=s[i];
             if(map.find(ch)==map.end()){
-                if(find(used.begin(), used.end(), t[i]) != used.end()){
+                if(find(used.begin(), used.end(), t[i]) == used.end()){
+                    map[ch]=t[i];
+                    used.push_back(t[i]);
+                }else{
                     return false;
                 }
-                map[ch]=t[i];
-                used.push_back(t[i]);
+                
             }
             
             if(map[ch]!=t[i]){
