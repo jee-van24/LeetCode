@@ -9,6 +9,7 @@ public:
             }else{
                 idx.push_back(i);
             }
+            if(idx.size()>2)return false;
         }
         if(idx.size()!=2)return false;
         //either swap those idx in s1 or s2
@@ -16,12 +17,6 @@ public:
         swap(s1[i],s1[j]);
         if(s1==s2){
             return true;
-        }else{
-            //swap in s2
-            swap(s2[i],s2[j]);
-            if(s1==s2){
-                return true;
-            }
         }
         return false;
     }
