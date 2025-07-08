@@ -1,22 +1,22 @@
 class Solution {
 public:
     int strStr(string haystack, string needle) {
-        int occur=-1;
-        int i=0;
-        string curr="";
-        while(i<haystack.size()){
-            int j=0;
-            while(haystack[i+j]==needle[j]&&j<needle.size()){
-                curr+=haystack[i+j];
+        int i = 0, j = 0,f=0;
+        while (i < haystack.length()) {
+            char check = needle[j];
+            if (haystack[f] == check && j < needle.length()) {
                 j++;
+                f++;
+            } else {
+                j = 0;
+                i++;
+                f=i;
             }
-            if(curr==needle){
-                occur=i;
-                return occur;
+            if (j == needle.length()) {
+                return i;
             }
-            curr.clear();
-            i++;
         }
-        return occur;
+
+        return -1;
     }
 };
