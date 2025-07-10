@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/jee-van24/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jee-van24/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/jee-van24/LeetCode/tree/master/0605-can-place-flowers) |
+| [1014-k-closest-points-to-origin](https://github.com/jee-van24/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/jee-van24/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1306-minimum-absolute-difference](https://github.com/jee-van24/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jee-van24/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jee-van24/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jee-van24/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1014-k-closest-points-to-origin](https://github.com/jee-van24/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jee-van24/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jee-van24/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/jee-van24/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1014-k-closest-points-to-origin](https://github.com/jee-van24/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1306-minimum-absolute-difference](https://github.com/jee-van24/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/jee-van24/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jee-van24/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jee-van24/LeetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/jee-van24/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/jee-van24/LeetCode/tree/master/0268-missing-number) |
+| [1014-k-closest-points-to-origin](https://github.com/jee-van24/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jee-van24/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/jee-van24/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/jee-van24/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/jee-van24/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1014-k-closest-points-to-origin](https://github.com/jee-van24/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jee-van24/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Bucket Sort
 |  |
@@ -246,4 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3373-maximum-prime-difference](https://github.com/jee-van24/LeetCode/tree/master/3373-maximum-prime-difference) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/jee-van24/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/jee-van24/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
