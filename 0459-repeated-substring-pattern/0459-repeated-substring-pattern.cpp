@@ -1,18 +1,27 @@
 class Solution {
 public:
     bool repeatedSubstringPattern(string s) {
-        string curr = "";
-        for (int i = 0; i < s.size()/2; i++) {
-            curr += s[i];
-            string repeated = curr;
-
-            while (repeated.size() < s.size()) {
-                repeated += curr;
-                if (repeated == s) {
-                    return true;
+        int n=s.size();
+        vector<int>lps(n,0);
+        int i=1;
+        int len=0;
+        while(i<n){
+            if(s[i]==s[len]){
+                len++;
+                lps[i]=len;
+                i++;
+            }else{
+                if(len!=0){
+                    len=lps[len-1];
+                }else{
+                    lps[i]=0;
+                    i++;
                 }
             }
         }
+        int lastlps=lps[n-1];
+        int unitlen=n-lastlps;
+        if(lastlps>0&&n%unitlen==0)return true;
         return false;
     }
 };
