@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/jee-van24/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jee-van24/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jee-van24/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/jee-van24/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jee-van24/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/jee-van24/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/jee-van24/LeetCode/tree/master/3396-valid-word) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/jee-van24/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/jee-van24/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jee-van24/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/jee-van24/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jee-van24/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jee-van24/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/jee-van24/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/jee-van24/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3221-find-the-peaks](https://github.com/jee-van24/LeetCode/tree/master/3221-find-the-peaks) |
 ## Math
 |  |
