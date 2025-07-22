@@ -17,8 +17,8 @@ public:
 
             }
        }
-       int finalSum = accumulate(seen.begin(), seen.end(), 0);
-       res=max(res,finalSum);
+       int sum=accumulate(seen.begin(),seen.end(),0);
+       res=max(res,sum);
        return res; 
     }
 };
