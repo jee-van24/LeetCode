@@ -6,7 +6,7 @@ public:
         bool flag = false;
         // if all the numbers are negaive;
         for (auto num : nums) {
-            if (num > 0) {
+            if (num >= 0) {
                 flag = true;
                 break;
             }
@@ -23,8 +23,14 @@ public:
             }
             return sum;
         } else {
-            sort(nums.begin(), nums.end(), std::greater<int>());
-            return nums[0];
+           for(auto num:nums){
+            if(num<sum&&sum==0){
+                sum=num;
+            }else{
+                sum=max(sum,num);
+            }
+           }
+           return sum;
         }
     }
 };
