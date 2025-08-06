@@ -1,40 +1,30 @@
 class Solution {
 public:
     int longestBeautifulSubstring(string word) {
-        string vowel = "aeiou";
-        int ptr = 0;
-        int count = 0;
-        bool atleast_one = false;
+        int n = word.length();
         int res = 0;
+        int start = 0;
 
-        for (char i : word) {
-            if (i == vowel[ptr]) {
-                atleast_one = true;
-                count++;
-
-                if (ptr == 4 && count > res) {
-                    res = count;
-                }
-
-            } else if (ptr < 4 && i == vowel[ptr + 1] && atleast_one == true) {
-                ptr++;
-                atleast_one = true;
-                count++;
-
-                if (ptr == 4 && count > res) {
-                    res = count;
-                }
-
-            } else {
-                ptr = 0;
-                count = 0;
-                atleast_one = false;
-
-                if (i == vowel[ptr]) {
-                    atleast_one = true;
-                    count++;
-                }
+        while (start < n) {
+            if (word[start] != 'a') {
+                start++;
+                continue;
             }
+
+            int end = start;
+            unordered_set<char> seen;
+            seen.insert('a');
+
+            while (end + 1 < n && word[end] <= word[end + 1]) {
+                end++;
+                seen.insert(word[end]);
+            }
+
+            if (seen.size() == 5) {
+                res = max(res, end - start + 1);
+            }
+
+            start = end + 1;
         }
 
         return res;
