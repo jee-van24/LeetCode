@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/jee-van24/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jee-van24/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0853-most-profit-assigning-work](https://github.com/jee-van24/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [0908-middle-of-the-linked-list](https://github.com/jee-van24/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/jee-van24/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/jee-van24/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/jee-van24/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/jee-van24/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/jee-van24/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Segment Tree
 |  |
 | ------- |
