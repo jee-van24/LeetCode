@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jee-van24/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/jee-van24/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2428-equal-row-and-column-pairs](https://github.com/jee-van24/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2529-range-product-queries-of-powers](https://github.com/jee-van24/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jee-van24/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jee-van24/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/jee-van24/LeetCode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/jee-van24/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [2529-range-product-queries-of-powers](https://github.com/jee-van24/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3644-minimum-positive-sum-subarray](https://github.com/jee-van24/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Matrix
 |  |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/jee-van24/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jee-van24/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jee-van24/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [2529-range-product-queries-of-powers](https://github.com/jee-van24/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jee-van24/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
