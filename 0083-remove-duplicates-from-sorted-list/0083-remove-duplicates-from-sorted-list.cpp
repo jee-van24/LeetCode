@@ -17,7 +17,8 @@ public:
         while(temp!=nullptr){
             if(temp->val==prev->val){
                 prev->next=temp->next;
-                temp=temp->next;
+                delete temp;
+                temp=prev->next;
             }else{
                 prev=temp;
                 temp=temp->next;
