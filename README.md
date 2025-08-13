@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jee-van24/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/jee-van24/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0554-brick-wall](https://github.com/jee-van24/LeetCode/tree/master/0554-brick-wall) |
+| [0567-permutation-in-string](https://github.com/jee-van24/LeetCode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/jee-van24/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0940-fruit-into-baskets](https://github.com/jee-van24/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jee-van24/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/jee-van24/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/jee-van24/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/jee-van24/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0567-permutation-in-string](https://github.com/jee-van24/LeetCode/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/jee-van24/LeetCode/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/jee-van24/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0886-score-of-parentheses](https://github.com/jee-van24/LeetCode/tree/master/0886-score-of-parentheses) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/jee-van24/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/jee-van24/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/jee-van24/LeetCode/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/jee-van24/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/jee-van24/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jee-van24/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/jee-van24/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/jee-van24/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jee-van24/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/jee-van24/LeetCode/tree/master/0567-permutation-in-string) |
 | [0853-most-profit-assigning-work](https://github.com/jee-van24/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0908-middle-of-the-linked-list](https://github.com/jee-van24/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/jee-van24/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
