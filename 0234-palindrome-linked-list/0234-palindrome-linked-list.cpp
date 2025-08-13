@@ -17,35 +17,14 @@ public:
             s.push(temp->val);
             temp=temp->next;
         }
-        ListNode* newhead=nullptr;
-        ListNode* tail=nullptr;
+        temp=head;
         while(s.size()){
-            int val=s.top();
+            if(temp->val!=s.top()){
+                return false;
+            }
             s.pop();
-            ListNode* node=new ListNode(val);
-            if(!newhead){
-                newhead=node;
-                tail=node;
-            }else{
-                tail->next=node;
-                tail=node;
-            }
+            temp=temp->next;
         }
-        ListNode* temp1=head;
-        ListNode* temp2=newhead;
-        bool flag=true;
-        while(temp1&&temp2){
-            if(temp1->val==temp2->val){
-                temp1=temp1->next;
-                temp2=temp2->next;
-            }else{
-                flag=false;
-                break;
-            }
-        }
-        if(flag){
-            return true;
-        }
-        return false;  
+        return true;
     }
 };
