@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/jee-van24/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2529-range-product-queries-of-powers](https://github.com/jee-van24/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jee-van24/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2664-maximize-greatness-of-an-array](https://github.com/jee-van24/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jee-van24/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/jee-van24/LeetCode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3221-find-the-peaks](https://github.com/jee-van24/LeetCode/tree/master/3221-find-the-peaks) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/jee-van24/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jee-van24/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jee-van24/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2664-maximize-greatness-of-an-array](https://github.com/jee-van24/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/jee-van24/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jee-van24/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jee-van24/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/jee-van24/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jee-van24/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/jee-van24/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
+| [2664-maximize-greatness-of-an-array](https://github.com/jee-van24/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jee-van24/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/jee-van24/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3859-maximum-product-of-two-digits](https://github.com/jee-van24/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/jee-van24/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/jee-van24/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/jee-van24/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
+| [2664-maximize-greatness-of-an-array](https://github.com/jee-van24/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 ## Simulation
 |  |
 | ------- |
