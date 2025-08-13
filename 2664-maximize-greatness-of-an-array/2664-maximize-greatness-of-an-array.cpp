@@ -1,14 +1,11 @@
 class Solution {
 public:
     int maximizeGreatness(vector<int>& nums) {
-        int res = 0;
-        vector<int> temp(nums.begin(), nums.end());
         sort(nums.begin(), nums.end()); 
-        sort(temp.begin(), temp.end()); 
+        int res = 0;
         int i = 0, j = 0;
-        
-        while (i < nums.size() && j < temp.size()) {
-            if (temp[j] > nums[i]) { 
+        while (i < nums.size() && j < nums.size()) {
+            if (nums[i] < nums[j]) {
                 res++;
                 i++;
                 j++;
