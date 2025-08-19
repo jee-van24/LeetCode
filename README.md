@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jee-van24/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/jee-van24/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2428-equal-row-and-column-pairs](https://github.com/jee-van24/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/jee-van24/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/jee-van24/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jee-van24/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2664-maximize-greatness-of-an-array](https://github.com/jee-van24/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/jee-van24/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/jee-van24/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/jee-van24/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/jee-van24/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/jee-van24/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3373-maximum-prime-difference](https://github.com/jee-van24/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jee-van24/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
