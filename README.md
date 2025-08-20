@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jee-van24/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/jee-van24/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/jee-van24/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/jee-van24/LeetCode/tree/master/0118-pascals-triangle) |
 | [0219-contains-duplicate-ii](https://github.com/jee-van24/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jee-van24/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/jee-van24/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/jee-van24/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jee-van24/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jee-van24/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -455,4 +457,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/jee-van24/LeetCode/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/jee-van24/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
