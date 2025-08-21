@@ -11,38 +11,63 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        stack<int> s1, s2;
 
-        while (l1) {
-            s1.push(l1->val);
+        // Convert l1 -> string
+        string str1;
+        while (l1 != nullptr) {
+            str1.push_back('0' + l1->val);
             l1 = l1->next;
         }
-        while (l2) {
-            s2.push(l2->val);
+
+        // Convert l2 -> string
+        string str2;
+        while (l2 != nullptr) {
+            str2.push_back('0' + l2->val);
             l2 = l2->next;
         }
 
+        int i = str1.size() - 1;
+        int j = str2.size() - 1;
         int carry = 0;
-        ListNode* head = nullptr;
+        stack<int> s;
 
-        while (!s1.empty() || !s2.empty() || carry) {
-            int sum = carry;
-            if (!s1.empty()) {
-                sum += s1.top();
-                s1.pop();
-            }
-            if (!s2.empty()) {
-                sum += s2.top();
-                s2.pop();
+        // Step 1: add digit by digit from right to left
+        while (i >= 0 || j >= 0 || carry > 0) {
+            int d1 = 0;
+            if (i >= 0) {
+                d1 = str1[i] - '0';
+                i--;
             }
 
+            int d2 = 0;
+            if (j >= 0) {
+                d2 = str2[j] - '0';
+                j--;
+            }
+
+            int sum = d1 + d2 + carry;
             carry = sum / 10;
-            ListNode* node = new ListNode(sum % 10);
-
-            node->next = head;
-            head = node;
+            int digit = sum % 10;
+            s.push(digit);  // keep in reverse order
         }
 
-        return head;
+        // Step 2: build linked list from stack
+        ListNode* newhead = nullptr;
+        ListNode* tail = nullptr;
+
+        while (!s.empty()) {
+            ListNode* curr = new ListNode(s.top());
+            s.pop();
+
+            if (!newhead) {
+                newhead = curr;
+                tail = curr;
+            } else {
+                tail->next = curr;
+                tail = curr;
+            }
+        }
+
+        return newhead;
     }
 };
