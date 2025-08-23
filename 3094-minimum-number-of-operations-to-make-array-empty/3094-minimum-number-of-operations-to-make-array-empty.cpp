@@ -1,40 +1,22 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        for(auto n:nums){
-            cout<<n<<" ";
-        }
+        unordered_map<int,int>map;
         int res=0;
-        int count=1;//assuming the first is same as the second
-        for(int i=1;i<nums.size();i++){
-            if(i==1&&nums[i]!=nums[i-1]){
-                return -1;
-            }
-            if(nums[i]==nums[i-1]){
-                count++;
-                continue;
-            }else{
-                if(count==1){
-                    return -1;
-                }
-                if(count%3==0){
-                    res+=count/3;
-                }else if(count%3==1){
-                    res+=(count-4)/3+2;
-                }else{
-                    res+=(count-2)/3+1;
-                }
-                count=1;
-            }
+        for(auto num:nums){
+            map[num]++;
         }
-        if (count == 1) return -1;
-        if (count % 3 == 0) {
-            res += count / 3;
-        } else if (count % 3 == 1) {
-            res += (count - 4) / 3 + 2;
-        } else {
-            res += (count - 2) / 3 + 1;
+        for(auto p:map){
+            int freq=p.second;
+            if(freq==1){
+                return -1;
+            }else if(freq%3==0){
+                res+=freq/3;
+            }else if(freq%3==1){
+                res+=(freq-4)/3+2;
+            }else{
+                res+=(freq-2)/3+1;
+            }
         }
         return res;
     }
