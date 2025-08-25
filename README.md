@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/jee-van24/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/jee-van24/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/jee-van24/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/jee-van24/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/jee-van24/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/jee-van24/LeetCode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/jee-van24/LeetCode/tree/master/0319-bulb-switcher) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/jee-van24/LeetCode/tree/master/0258-add-digits) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jee-van24/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2428-equal-row-and-column-pairs](https://github.com/jee-van24/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jee-van24/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/jee-van24/LeetCode/tree/master/0258-add-digits) |
 | [3373-maximum-prime-difference](https://github.com/jee-van24/LeetCode/tree/master/3373-maximum-prime-difference) |
 ## Geometry
 |  |
