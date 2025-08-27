@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jee-van24/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/jee-van24/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/jee-van24/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/jee-van24/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0554-brick-wall](https://github.com/jee-van24/LeetCode/tree/master/0554-brick-wall) |
 | [0605-can-place-flowers](https://github.com/jee-van24/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jee-van24/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/jee-van24/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/jee-van24/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/jee-van24/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/jee-van24/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0886-score-of-parentheses](https://github.com/jee-van24/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jee-van24/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/jee-van24/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -536,4 +538,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jee-van24/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/jee-van24/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
