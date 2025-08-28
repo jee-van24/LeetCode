@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/jee-van24/LeetCode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/jee-van24/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/jee-van24/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3748-sort-matrix-by-diagonals](https://github.com/jee-van24/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jee-van24/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/jee-van24/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/jee-van24/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2428-equal-row-and-column-pairs](https://github.com/jee-van24/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/jee-van24/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/jee-van24/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Greedy
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jee-van24/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jee-van24/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/jee-van24/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3748-sort-matrix-by-diagonals](https://github.com/jee-van24/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3859-maximum-product-of-two-digits](https://github.com/jee-van24/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Enumeration
 |  |
