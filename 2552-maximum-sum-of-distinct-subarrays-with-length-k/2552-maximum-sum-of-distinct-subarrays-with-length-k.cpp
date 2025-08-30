@@ -1,41 +1,33 @@
 class Solution {
 public:
     long long maximumSubarraySum(vector<int>& nums, int k) {
-        unordered_map<int,int> map;
-        long long res = 0;
-        long long currsum = nums[0];
-        int left = 0;
-        map[nums[0]] = 1;
-        if (k == 1) return *max_element(nums.begin(), nums.end());
-
-        for (int right = 1; right < nums.size(); right++) {   // ✅ fix #1
-            if (map.find(nums[right]) == map.end()) {
-                map[nums[right]] = 1;
-                currsum += nums[right];
+        int n = nums.size();
+        unordered_set<int> elements;
+        long long current_sum = 0;
+        long long max_sum = 0;
+        int begin = 0;
+        
+        for (int end = 0; end < n; end++) {
+            if (elements.find(nums[end]) == elements.end()) {
+                current_sum += nums[end];
+                elements.insert(nums[end]);
+                
+                if (end - begin + 1 == k) {
+                    max_sum = max(max_sum, current_sum);
+                    current_sum -= nums[begin];
+                    elements.erase(nums[begin]);
+                    begin++;
+                }
             } else {
-                while (map.find(nums[right]) != map.end()) {
-                    currsum -= nums[left];
-                    map[nums[left]]--;
-                    if (map[nums[left]] == 0) {
-                        map.erase(nums[left]);
-                    }
-                    left++;
+                while (nums[begin] != nums[end]) {
+                    current_sum -= nums[begin];
+                    elements.erase(nums[begin]);
+                    begin++;
                 }
-                map[nums[right]] = 1;
-                currsum += nums[right];
-            }
-            while (right - left + 1 > k) {
-                currsum -= nums[left];
-                map[nums[left]]--;
-                if (map[nums[left]] == 0) {
-                    map.erase(nums[left]);
-                }
-                left++;
-            }
-            if (right - left + 1 == k && map.size() == k) {
-                res = max(res, currsum);
+                begin++;
             }
         }
-        return res;
+        
+        return max_sum;
     }
 };
