@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/jee-van24/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/jee-van24/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/jee-van24/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jee-van24/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jee-van24/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2664-maximize-greatness-of-an-array](https://github.com/jee-van24/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jee-van24/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/jee-van24/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2427-first-letter-to-appear-twice](https://github.com/jee-van24/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/jee-van24/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jee-van24/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jee-van24/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2832-find-the-longest-equal-subarray](https://github.com/jee-van24/LeetCode/tree/master/2832-find-the-longest-equal-subarray) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/jee-van24/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/jee-van24/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/jee-van24/LeetCode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/jee-van24/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jee-van24/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2832-find-the-longest-equal-subarray](https://github.com/jee-van24/LeetCode/tree/master/2832-find-the-longest-equal-subarray) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jee-van24/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/jee-van24/LeetCode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
