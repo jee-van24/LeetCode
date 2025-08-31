@@ -11,35 +11,35 @@
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
+        vector<int>res;
+        ListNode* temp=head;
         if(!head)return nullptr;
-        ListNode* oddhead=nullptr;
-        ListNode* evenhead=nullptr;
-        ListNode* oddtail=oddhead;
-        ListNode* eventail=evenhead;
-        ListNode* curr=head;
-        int count=1;
-        while(curr!=nullptr){
-            if(count%2==1){
-                if(!oddhead){
-                    oddhead=new ListNode(curr->val);
-                    oddtail=oddhead;
-                }else{
-                    oddtail->next=new ListNode(curr->val);
-                    oddtail=oddtail->next;
-                }
+        //collect all the values at the odd idx
+        while(temp){
+            res.push_back(temp->val);
+            if(temp->next){
+                temp=temp->next->next;
             }else{
-                if(!evenhead){
-                    evenhead=new ListNode(curr->val);
-                    eventail=evenhead;
-                }else{
-                    eventail->next=new ListNode(curr->val);
-                    eventail=eventail->next;
-                }
+                break;
             }
-            curr=curr->next;
-            count++;
+            
         }
-        oddtail->next=evenhead;
-        return oddhead;
+        //now collect the values at even idx 
+        temp=head->next;
+        while(temp){
+            res.push_back(temp->val);
+            if(temp->next){
+                temp=temp->next->next;
+            }else{
+                break;
+            }
+            
+        }
+        temp=head;
+        for(auto num:res){
+            temp->val=num;
+            temp=temp->next;
+        }
+        return head;
     }
 };
