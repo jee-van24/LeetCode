@@ -1,21 +1,31 @@
 class Solution {
 public:
     int numberOfPairs(vector<vector<int>>& points) {
-        auto cmp=[] (const vector<int>& a, const vector<int>& b) {
-            return a[0] == b[0] ? a[1] > b[1] : a[0] < b[0];
-        };
-        sort(points.begin(), points.end(),cmp);
         int res = 0;
-        for(int i=0;i<points.size();i++){
-            int lefty=points[i][1],maxy=-1;
-            for(int j=i+1;j<points.size();j++){
-                int righty=points[j][1];
-                if(lefty>=righty&&righty>maxy){
-                    res++;
-                    maxy=righty;
+        int n = points.size();
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (i == j) continue;
+
+                if (points[i][0] <= points[j][0] && points[i][1] >= points[j][1]) {
+                    bool blocked = false;
+
+                    for (int k = 0; k < n; k++) {
+                        if (k == i || k == j) continue;
+
+                        if (points[i][0] <= points[k][0] && points[k][0] <= points[j][0] &&
+                            points[i][1] >= points[k][1] && points[k][1] >= points[j][1]) {
+                            blocked = true;
+                            break;  
+                        }
+                    }
+
+                    if (!blocked) res++;
                 }
             }
         }
+
         return res;
     }
 };
