@@ -31,19 +31,13 @@ public:
         for(int i=0;i<len-k;i++){
             nums.push_back(arr[i]);
         }
-        ListNode* newhead=nullptr;
-        ListNode* tail=nullptr;
+        ListNode* dummy=new ListNode(-1);
+        ListNode* curr=dummy;
         for(auto num:nums){
-            ListNode* curr=new ListNode(num);
-            if(!newhead){
-                newhead=curr;
-                tail=curr;
-            }else{
-                tail->next=curr;
-                tail=curr;
-            }
+            curr->next=new ListNode(num);
+            curr=curr->next;
         }
-        return newhead;
+        return dummy->next;
         
     }
 };
