@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/jee-van24/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/jee-van24/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jee-van24/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1657-find-the-winner-of-an-array-game](https://github.com/jee-van24/LeetCode/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1813-maximum-erasure-value](https://github.com/jee-van24/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/jee-van24/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/jee-van24/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/jee-van24/LeetCode/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/jee-van24/LeetCode/tree/master/0498-diagonal-traverse) |
+| [1657-find-the-winner-of-an-array-game](https://github.com/jee-van24/LeetCode/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jee-van24/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2428-equal-row-and-column-pairs](https://github.com/jee-van24/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jee-van24/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
