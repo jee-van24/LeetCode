@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/jee-van24/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jee-van24/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jee-van24/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jee-van24/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jee-van24/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jee-van24/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/jee-van24/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/jee-van24/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1014-k-closest-points-to-origin](https://github.com/jee-van24/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jee-van24/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jee-van24/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/jee-van24/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/jee-van24/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/jee-van24/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
