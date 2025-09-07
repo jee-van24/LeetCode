@@ -24,19 +24,13 @@ public:
         for(int i=0;i+k<=len;i+=k){
             reverse(arr.begin()+i,arr.begin()+i+k);
         }
-        ListNode* newhead=nullptr;
-        ListNode* tail=nullptr;
-        for(auto val:arr){
-            ListNode* curr=new ListNode(val);
-            if(!newhead){
-                newhead=curr;
-                tail=curr;
-            }else{
-                tail->next=curr;
-                tail=curr;
-            }
+        ListNode* dummy=new ListNode(-1);
+         temp=dummy;
+        for(auto num:arr){
+            temp->next=new ListNode(num);
+            temp=temp->next;
         }
-        return newhead;
+        return dummy->next;
 
     }
 };
