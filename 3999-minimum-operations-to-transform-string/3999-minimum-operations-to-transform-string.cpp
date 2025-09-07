@@ -1,29 +1,17 @@
 class Solution {
 public:
     int minOperations(string s) {
-        bool flag=true;
-        int res=0;
-        for(auto ch:s){
-            if(ch=='a'){
-                continue;
-            }else{
-                flag=false;
-                break;
+       char minchar='z'+1;
+       for(auto ch:s){
+            if(ch!='a'){
+                minchar=min(minchar,ch);
             }
-        }
-        if(flag){
-            return 0;
-        }else{
-            sort(s.begin(),s.end());
-            for(auto ch:s){
-                if(ch=='a'){
-                    continue;
-                }else{
-                    res=26-(ch-'a');
-                    break;
-                }
-            }
-        }
-        return res;
+       }
+       if(minchar=='z'+1){
+        return 0;
+       }else{
+        return 26-(minchar-'a');
+       }
+       return 0;
     }
 };
