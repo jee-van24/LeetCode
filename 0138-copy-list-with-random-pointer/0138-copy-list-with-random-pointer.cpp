@@ -17,34 +17,24 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        Node* dummy=new Node(-1);
-        Node* temp=dummy;
-        Node* curr=head;
-        while(curr){
-            cout<<curr->val<<"  ";
-            temp->next=new Node(curr->val);
-            temp=temp->next;
-            curr=curr->next;
-        }
         unordered_map<Node*,Node*>map;
-        curr=head;
-        Node* copycurr=dummy->next;
-        while(curr){
-            map[curr]=copycurr;
-            curr=curr->next;
-            copycurr=copycurr->next;
+        Node* temp=head;
+        while(temp){
+            Node* newnode=new Node(temp->val);
+            map[temp]=newnode;
+            temp=temp->next;
         }
-        curr=head;
-        copycurr=dummy->next;
-        while(curr){
-            if(curr->random){
-                copycurr->random=map[curr->random];
+        temp=head;
+        while(temp){
+            Node* copynode=map[temp];
+            if(temp->next){
+                copynode->next=map[temp->next];
             }
-            curr=curr->next;
-            copycurr=copycurr->next;
+            if(temp->random){
+                copynode->random=map[temp->random];
+            }
+            temp=temp->next;
         }
-        return dummy->next;
-        
-
+        return map[head];
     }
 };
