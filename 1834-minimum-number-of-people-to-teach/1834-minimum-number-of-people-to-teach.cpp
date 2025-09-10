@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool hasCommon(const vector<int>& a, const vector<int>& b) {
+    bool hasCommon(unordered_set<int>& a,unordered_set<int>& b) {
         unordered_set<int> st(a.begin(), a.end());
         for (int y : b) {
             if (st.count(y))
@@ -10,17 +10,19 @@ public:
     }
     int minimumTeachings(int n, vector<vector<int>>& languages,
                          vector<vector<int>>& friendships) {
-        unordered_map<int, vector<int>> map;
+        unordered_map<int, unordered_set<int>> map;
         for (int i = 0; i < languages.size(); i++) {
-            map[i + 1] = languages[i];
+            unordered_set<int>set(languages[i].begin(),languages[i].end());
+            map[i + 1] =set;
         }
-        for (auto p : map) {
+       /* for (auto p : map) {
             cout << p.first << " ";
             for (int n : p.second) {
                 cout << n;
             }
             cout << endl;
         }
+        */
         int res=INT_MAX;
         unordered_set<int> users;
         for (auto p : friendships) {
@@ -36,8 +38,8 @@ public:
             int commonlang = i;
             int count = 0;
             for (auto user :users) {
-                auto lang = map[user];
-                if (find(lang.begin(), lang.end(), commonlang) == lang.end()) {
+                auto lang=map[user];
+                if(!map[user].count(commonlang)){
                     count++;
                 }
             }
