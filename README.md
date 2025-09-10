@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jee-van24/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2664-maximize-greatness-of-an-array](https://github.com/jee-van24/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jee-van24/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/jee-van24/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jee-van24/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2832-find-the-longest-equal-subarray](https://github.com/jee-van24/LeetCode/tree/master/2832-find-the-longest-equal-subarray) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/jee-van24/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/jee-van24/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/jee-van24/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jee-van24/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/jee-van24/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jee-van24/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2832-find-the-longest-equal-subarray](https://github.com/jee-van24/LeetCode/tree/master/2832-find-the-longest-equal-subarray) |
 | [3790-fruits-into-baskets-ii](https://github.com/jee-van24/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/jee-van24/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2529-range-product-queries-of-powers](https://github.com/jee-van24/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/jee-van24/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3644-minimum-positive-sum-subarray](https://github.com/jee-van24/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Matrix
 |  |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/jee-van24/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2664-maximize-greatness-of-an-array](https://github.com/jee-van24/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jee-van24/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/jee-van24/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jee-van24/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/jee-van24/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/jee-van24/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
