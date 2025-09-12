@@ -6,9 +6,9 @@ public:
         for(auto ch:s){
             if(set.find(ch)!=set.end()){
                 cnt++;
+                return true;
             } 
         }
-        if(cnt==0)return false;
-        else return true;
+       return false;
     }
 };
