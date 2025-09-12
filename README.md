@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/jee-van24/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/jee-van24/LeetCode/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/jee-van24/LeetCode/tree/master/3447-clear-digits) |
+| [3462-vowels-game-in-a-string](https://github.com/jee-van24/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/jee-van24/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jee-van24/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/jee-van24/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3373-maximum-prime-difference](https://github.com/jee-van24/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3374-count-alternating-subarrays](https://github.com/jee-van24/LeetCode/tree/master/3374-count-alternating-subarrays) |
+| [3462-vowels-game-in-a-string](https://github.com/jee-van24/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jee-van24/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/jee-van24/LeetCode/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/jee-van24/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
@@ -589,9 +591,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/jee-van24/LeetCode/tree/master/0319-bulb-switcher) |
+| [3462-vowels-game-in-a-string](https://github.com/jee-van24/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jee-van24/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jee-van24/LeetCode/tree/master/0503-next-greater-element-ii) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/jee-van24/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
