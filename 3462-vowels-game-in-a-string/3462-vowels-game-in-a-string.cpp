@@ -9,10 +9,6 @@ public:
             } 
         }
         if(cnt==0)return false;
-        cout<<cnt;
-        if(cnt%2==0){
-            return true;
-        }
-        return true;
+        else return true;
     }
 };
