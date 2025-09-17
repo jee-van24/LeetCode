@@ -1,18 +1,24 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        if (x == 0) return 0;
-        if (x == 1) return 1;
-        if(x==-1&&n%2!=0)return -1;
-
-        long long exp = n;
-        if (exp < 0) exp = -exp;
-
-        double res = 1;
-        for (long long i = 0; i < exp; i++) {
-            res *= x;
+        long long exp=n;
+        if(exp<0){
+           exp=-1*exp;
         }
-
-        return n >= 0 ? res : 1/res;
+        double res=1;
+        while(exp!=0){
+            if(exp%2==1){
+                res*=x;
+                exp=exp-1;
+            }else{
+                 x*=x;
+                exp=exp/2;
+            }
+           
+        }
+        if(n<0){
+            return 1/res;
+        }
+        return res;
     }
 };
