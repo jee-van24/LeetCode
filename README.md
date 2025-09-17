@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jee-van24/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2664-maximize-greatness-of-an-array](https://github.com/jee-van24/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jee-van24/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/jee-van24/LeetCode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/jee-van24/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jee-van24/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2832-find-the-longest-equal-subarray](https://github.com/jee-van24/LeetCode/tree/master/2832-find-the-longest-equal-subarray) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jee-van24/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2664-maximize-greatness-of-an-array](https://github.com/jee-van24/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/jee-van24/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/jee-van24/LeetCode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jee-van24/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/jee-van24/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jee-van24/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/jee-van24/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2664-maximize-greatness-of-an-array](https://github.com/jee-van24/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jee-van24/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/jee-van24/LeetCode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/jee-van24/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2887-sort-vowels-in-a-string](https://github.com/jee-van24/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jee-van24/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
