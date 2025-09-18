@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/jee-van24/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/jee-van24/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/jee-van24/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/jee-van24/LeetCode/tree/master/2050-count-good-numbers) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/jee-van24/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/jee-van24/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/jee-van24/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/jee-van24/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/jee-van24/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jee-van24/LeetCode/tree/master/0342-power-of-four) |
+| [2050-count-good-numbers](https://github.com/jee-van24/LeetCode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jee-van24/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
