@@ -1,16 +1,22 @@
 class Solution {
 public:
+    void backtrack(vector<int>nums,vector<int>curr,int idx,vector<vector<int>>&res){
+        if(idx==nums.size()){
+            res.push_back(curr);
+            return ;
+        }
+        //else consider both possibilities including the current element and not including the current element 
+        curr.push_back(nums[idx]);
+        backtrack(nums,curr,idx+1,res);
+        curr.pop_back();
+        backtrack(nums,curr,idx+1,res);
+
+    }
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>>res;
-        res.push_back({});
-        for(int i=0;i<nums.size();i++){
-            int n=res.size();
-            for(int j=0;j<n;j++){
-                vector<int>temp=res[j];
-                temp.push_back(nums[i]);
-                res.push_back(temp);
-            }
-        }
+        vector<int>temp;
+        backtrack(nums,temp,0,res);
         return res;
+
     }
 };
