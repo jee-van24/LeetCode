@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jee-van24/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/jee-van24/LeetCode/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/jee-van24/LeetCode/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/jee-van24/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/jee-van24/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/jee-van24/LeetCode/tree/master/0118-pascals-triangle) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jee-van24/LeetCode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/jee-van24/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/jee-van24/LeetCode/tree/master/0078-subsets) |
 ## Brainteaser
 |  |
