@@ -1,36 +1,39 @@
 class Solution {
 public:
     string majorityFrequencyGroup(string s) {
-        unordered_map<char,int> freqMap;
-        for(auto ch : s){
-            freqMap[ch]++;
+        unordered_map<char,int>map;
+        for(auto ch:s){
+            map[ch]++;
         }
-
-        // build frequency table: freq -> count of chars with that freq
-        unordered_map<int,int> freqTable;
-        for(auto p : freqMap){
-            freqTable[p.second]++;
+        //now we have the frequency of each character
+        int maxfreq=0;
+        for(auto p:map){
+            maxfreq=max(maxfreq,p.second);
         }
-
-        int majorityFreq = 0;
-        int majorityCnt = 0;
-        for(auto p : freqTable){
-            int k = p.first;
-            int count = p.second; 
-            if(count > majorityCnt || (count == majorityCnt && k > majorityFreq)){
-                majorityFreq = k;
-                majorityCnt = count;
+        //now we need to get the majority freq
+        unordered_map<int,int>freqtable;
+        for(auto p:map){
+            auto f=p.second;
+            freqtable[f]++;
+        }
+        int majorityfreq=0;
+        int majoritycnt=0;
+        for(auto pair:freqtable){
+            int currfreq=pair.first;
+            int currcnt=pair.second;
+            if(currcnt>majoritycnt||currcnt==majoritycnt&&currfreq>majorityfreq){
+                majorityfreq=currfreq;
+                majoritycnt=currcnt;
             }
         }
-
-        // collect all chars with majority frequency
-        string res = "";
-        for(auto p : freqMap){
-            if(p.second == majorityFreq){
+        string res="";
+        for(auto p:map){
+            if(p.second==majorityfreq){
                 res.push_back(p.first);
             }
         }
-
-        return res; // order doesn’t matter
+    
+        return res;
+        
     }
 };
