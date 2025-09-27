@@ -1,26 +1,30 @@
 class Solution {
 public:
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>> res;
-        vector<int> comb;
-        makeCombination(candidates, target, 0, comb, 0, res);
-        return res;        
+    vector<vector<int>>dfs(vector<int>nums,int idx,vector<int>curr,int target){
+        vector<vector<int>>temp;
+        if(idx>=nums.size()){
+            if(target==0){
+                temp.push_back(curr);
+            }
+            return temp;
+        }
+        if(nums[idx]<=target){
+            //will pick it again 
+            curr.push_back(nums[idx]);
+            auto left=dfs(nums,idx,curr,target-nums[idx]);
+            temp.insert(temp.end(),left.begin(),left.end());
+            curr.pop_back();
+        }
+        //now dont include the curr one 
+        auto right=dfs(nums,idx+1,curr,target);
+        temp.insert(temp.end(),right.begin(),right.end());
+        return temp;
     }
-
-private:
-    void makeCombination(std::vector<int>& candidates, int target, int idx, vector<int>& comb, int total, vector<vector<int>>& res) {
-        if (total == target) {
-            res.push_back(comb);
-            return;
-        }
-
-        if (total > target || idx >= candidates.size()) {
-            return;
-        }
-
-        comb.push_back(candidates[idx]);
-        makeCombination(candidates, target, idx, comb, total + candidates[idx], res);
-        comb.pop_back();
-        makeCombination(candidates, target, idx + 1, comb, total, res);
-    }    
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        vector<vector<int>>res;
+        vector<int>curr;
+        res=dfs(candidates,0,curr,target);
+        return res;
+        
+    }
 };
