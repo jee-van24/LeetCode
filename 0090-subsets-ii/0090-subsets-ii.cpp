@@ -23,10 +23,10 @@ public:
         // generate all subsets
         vector<vector<int>> res = backtrack(nums, {}, 0);
 
-        // use set to remove duplicates
+      
         set<vector<int>> s(res.begin(), res.end());
 
-        // return as vector
+       
         return vector<vector<int>>(s.begin(), s.end());
     }
 };
