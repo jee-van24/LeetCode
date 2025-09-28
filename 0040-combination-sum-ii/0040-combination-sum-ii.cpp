@@ -15,9 +15,9 @@ public:
             if (i > idx && nums[i] == nums[i - 1])
                 continue; 
 
-            vector<int> nextCurr = curr;    
-            nextCurr.push_back(nums[i]);  
-            auto left = dfs(nums, i + 1, nextCurr, target - nums[i]);
+            curr.push_back(nums[i]);    
+            auto left = dfs(nums, i + 1, curr, target - nums[i]);
+            curr.pop_back();
             temp.insert(temp.end(), left.begin(), left.end());
         }
 
