@@ -1,6 +1,7 @@
 class Solution {
 public:
     void dfs(int idx,vector<int>arr,vector<int>curr,int sum,int targ,int k,vector<vector<int>>&res){
+        if(sum>targ||curr.size()>k)return ;
         if(curr.size()==k){
             if(sum==targ){
                 res.push_back(curr);
