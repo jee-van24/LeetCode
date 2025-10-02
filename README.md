@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jee-van24/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/jee-van24/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/jee-van24/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1642-water-bottles](https://github.com/jee-van24/LeetCode/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/jee-van24/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/jee-van24/LeetCode/tree/master/2050-count-good-numbers) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/jee-van24/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/jee-van24/LeetCode/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/jee-van24/LeetCode/tree/master/0498-diagonal-traverse) |
+| [1642-water-bottles](https://github.com/jee-van24/LeetCode/tree/master/1642-water-bottles) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/jee-van24/LeetCode/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jee-van24/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jee-van24/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
