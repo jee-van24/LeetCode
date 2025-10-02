@@ -2,18 +2,20 @@ class Solution {
 public:
     unordered_map<int, vector<char>> mp;
 
-    void dfs(string &str, int idx, string &curr, vector<string> &res) {
+    vector<string> dfs(string str, int idx, string curr) {
+        vector<string>res;
         if (idx >= str.size()) {
-            res.push_back(curr);
-            return;
+            return {curr};
         }
 
         auto &vec = mp[str[idx] - '0']; // access mapping for digit
         for (auto ch : vec) {
             curr.push_back(ch);
-            dfs(str, idx + 1, curr, res);
+            auto vec=dfs(str, idx + 1, curr);
+            res.insert(res.end(),vec.begin(),vec.end());
             curr.pop_back();
         }
+        return res;
     }
 
     vector<string> letterCombinations(string digits) {
@@ -30,7 +32,7 @@ public:
 
         vector<string> res;
         string curr = "";
-        dfs(digits, 0, curr, res);
+        res=dfs(digits, 0, curr);
         return res;
     }
 };
