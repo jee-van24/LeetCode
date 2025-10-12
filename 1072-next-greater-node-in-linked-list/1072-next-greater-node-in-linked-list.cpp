@@ -17,20 +17,22 @@ public:
             arr.push_back(temp->val);
             temp = temp->next;
         }
-        vector<int> res;
-        for (int i = 0; i < arr.size(); i++) {
-            bool flag = false;
-            for (int j = i + 1; j < arr.size(); j++) {
-                if (arr[j] > arr[i]) {
-                    res.push_back(arr[j]);
-                    flag = true;
-                    break;
+        vector<int> res(arr.size(),-1);
+        stack<int>s;
+        for(int i=arr.size()-1;i>=0;i--){
+            if(s.empty()){
+                res[i]=0;
+            }else{
+                while(!s.empty()&&s.top()<=arr[i])s.pop();
+                if(s.empty()){
+                    res[i]=0;
+                }else{
+                   res[i]=s.top();
                 }
             }
-            if (!flag) {
-                res.push_back(0);
-            }
+            s.push(arr[i]);
         }
+        
         return res;
     }
 };
