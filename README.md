@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jee-van24/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/jee-van24/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jee-van24/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4052-equal-score-substrings](https://github.com/jee-van24/LeetCode/tree/master/4052-equal-score-substrings) |
 ## Counting
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/jee-van24/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/jee-van24/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3644-minimum-positive-sum-subarray](https://github.com/jee-van24/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
+| [4052-equal-score-substrings](https://github.com/jee-van24/LeetCode/tree/master/4052-equal-score-substrings) |
 ## Matrix
 |  |
 | ------- |
