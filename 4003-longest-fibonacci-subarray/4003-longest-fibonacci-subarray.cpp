@@ -12,7 +12,7 @@ public:
                     currlen++;
                 }
             }else{
-                currlen=2;
+                currlen=0;
             }
             res=max(res,currlen);
        } 
