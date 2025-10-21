@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/jee-van24/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/jee-van24/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/jee-van24/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0282-expression-add-operators](https://github.com/jee-van24/LeetCode/tree/master/0282-expression-add-operators) |
 | [0383-ransom-note](https://github.com/jee-van24/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jee-van24/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jee-van24/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/jee-van24/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/jee-van24/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/jee-van24/LeetCode/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/jee-van24/LeetCode/tree/master/0282-expression-add-operators) |
 | [0319-bulb-switcher](https://github.com/jee-van24/LeetCode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/jee-van24/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jee-van24/LeetCode/tree/master/0342-power-of-four) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/jee-van24/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/jee-van24/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/jee-van24/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/jee-van24/LeetCode/tree/master/0282-expression-add-operators) |
 ## Brainteaser
 |  |
 | ------- |
