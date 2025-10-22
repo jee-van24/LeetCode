@@ -1,28 +1,27 @@
 class Solution {
 public:
-    vector<string>backtrack(int n,int open,int close,string s){
-        vector<string>res;
-        vector<string>temp;
-        if(open==n&&close==n){
-            res.push_back(s);
-            return res;
+    void dfs(int open , int close, string& curr,int n, vector<string>&res){
+        if(open==n &&close==n){
+            //base case achieved
+            res.push_back(curr);
+            return;
         }
-        // always consider two possibilities and try to add ( first
+        //always try to fill ( first if possible 
         if(open<n){
-            temp=backtrack(n,open+1,close,s+'(');
-            res.insert(res.end(),temp.begin(),temp.end());
+            curr.push_back('(');
+            dfs(open+1,close,curr,n,res);
+            curr.pop_back();
         }
         if(close<open){
-            temp=backtrack(n,open,close+1,s+')');
-            res.insert(res.end(),temp.begin(),temp.end());
+            curr.push_back(')');
+            dfs(open,close+1,curr,n,res);
+            curr.pop_back();
         }
-        return res;
-
     }
     vector<string> generateParenthesis(int n) {
+        string s="";
         vector<string>res;
-        res=backtrack(n,0,0,"");
+        dfs(0,0,s,n,res);
         return res;
-
     }
 };
