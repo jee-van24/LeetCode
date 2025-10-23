@@ -1,30 +1,27 @@
 class Solution {
 public:
-    vector<vector<int>>dfs(vector<int>nums,int idx,vector<int>curr,int target){
-        vector<vector<int>>temp;
-        if(idx>=nums.size()){
-            if(target==0){
-                temp.push_back(curr);
+    void dfs(int idx,vector<int>&nums,vector<int>&curr,int sum,int target, vector<vector<int>>&res){
+        if(idx==nums.size()){
+            if(sum==target){
+                res.push_back(curr);
             }
-            return temp;
+            return;
         }
-        if(nums[idx]<=target){
-            //will pick it again 
-            curr.push_back(nums[idx]);
-            auto left=dfs(nums,idx,curr,target-nums[idx]);
-            temp.insert(temp.end(),left.begin(),left.end());
-            curr.pop_back();
+        if(sum>target){
+            return;//already exceeded the target , no need of further recursive calls 
         }
-        //now dont include the curr one 
-        auto right=dfs(nums,idx+1,curr,target);
-        temp.insert(temp.end(),right.begin(),right.end());
-        return temp;
+        //i will always pick the current idx unlimited number of times
+        curr.push_back(nums[idx]);
+        dfs(idx,nums,curr,sum+nums[idx],target,res);
+        curr.pop_back();
+        //now dont pick the current idx and move forward 
+        dfs(idx+1,nums,curr,sum,target,res);
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>>res;
         vector<int>curr;
-        res=dfs(candidates,0,curr,target);
+        dfs(0,candidates,curr,0,target,res);
         return res;
-        
+
     }
 };
