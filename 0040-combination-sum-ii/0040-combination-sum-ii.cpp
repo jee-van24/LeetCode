@@ -1,32 +1,31 @@
 class Solution {
 public:
-    vector<vector<int>> dfs(vector<int> nums, int idx, vector<int> curr, int target) {
-        vector<vector<int>> temp;
-
-        if (target == 0) {
-            temp.push_back(curr);
-            return temp;  
+    set<vector<int>>s;
+    void dfs(int idx,vector<int>&curr,vector<int>&nums,int target, int sum,vector<vector<int>>&res){
+        if(sum>target){
+            //no need for further recursive calls cause sum already exceeded target
+            return;
         }
-
-        if (idx >= nums.size() || target < 0)
-            return temp;
-
-        for (int i = idx; i < nums.size(); i++) {
-            if (i > idx && nums[i] == nums[i - 1])
-                continue; 
-
-            curr.push_back(nums[i]);    
-            auto left = dfs(nums, i + 1, curr, target - nums[i]);
+        if(sum==target){
+            res.push_back(curr);  
+            return;
+        }
+        //i gotta skip duplicate numbers cause shoudnt start a new branch with the same number at the same depth
+        for(int i=idx;i<nums.size();i++){
+            if(i>idx&&nums[i]==nums[i-1]){
+                continue;
+            }
+            curr.push_back(nums[i]);
+            dfs(i+1,curr,nums,target,sum+nums[i],res);
             curr.pop_back();
-            temp.insert(temp.end(), left.begin(), left.end());
         }
 
-        return temp;
     }
-
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        sort(candidates.begin(), candidates.end());
-        vector<vector<int>>res=dfs(candidates, 0, {}, target);
+        sort(candidates.begin(),candidates.end());
+        vector<vector<int>>res;
+        vector<int>curr;
+        dfs(0,curr,candidates,target,0,res);
         return res;
     }
 };
