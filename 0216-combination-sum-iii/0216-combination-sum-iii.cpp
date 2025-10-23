@@ -1,33 +1,34 @@
 class Solution {
 public:
-    void dfs(int idx,vector<int>arr,vector<int>curr,int sum,int targ,int k,vector<vector<int>>&res){
-        if(sum>targ||curr.size()>k)return ;
-        if(curr.size()==k){
-            if(sum==targ){
-                res.push_back(curr);
-                return;
-            }
-        }
-        if(idx>=arr.size()){
-            if(sum==targ&&curr.size()==k){
+    void dfs(int idx,vector<int>&curr,vector<int>&nums,int sum,int k,int target, vector<vector<int>>&res){
+        if(idx==nums.size()){
+            if(sum==target&&curr.size()==k){
                 res.push_back(curr);
             }
             return;
         }
-        //i can include each idx at most once 
-        //so i will consider 2 choices , including it and not including 
-        curr.push_back(arr[idx]);
-        dfs(idx+1,arr,curr,sum+arr[idx],targ,k,res);
-        //now dont include the idx
+        if(curr.size()==k){
+            if(sum==target){
+                res.push_back(curr);
+            }
+            return;
+        }
+        //the curr is still under k size 
+        //so we need to decide with 2 options , include the current idx 
+        curr.push_back(nums[idx]);
+        dfs(idx+1,curr,nums,sum+nums[idx],k,target,res);
+        //after exploring all the possibilities of including the current idx , now dont include 
         curr.pop_back();
-        dfs(idx+1,arr,curr,sum,targ,k,res);
-        return;
+        dfs(idx+1,curr,nums,sum,k,target,res);
     }
     vector<vector<int>> combinationSum3(int k, int n) {
-        vector<int>nums={1,2,3,4,5,6,7,8,9};
-        vector<int>curr={};
+        vector<int>nums;
+        for(int i=0;i<9;i++){
+            nums.push_back(i+1);
+        };
+        vector<int>curr;
         vector<vector<int>>res;
-        dfs(0,nums,curr,0,n,k,res);
+        dfs(0,curr,nums,0,k,n,res);
         return res;
     }
 };
