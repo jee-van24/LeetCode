@@ -1,32 +1,26 @@
 class Solution {
 public:
-    vector<vector<int>> backtrack(vector<int>& nums, vector<int> curr, int idx) {
-        if (idx == nums.size()) {
-            return {curr};
+    void dfs(int idx,vector<int>&curr,vector<int>&nums,vector<vector<int>>&res){
+        res.push_back(curr);
+        if(idx==nums.size()){
+            return;
+        } 
+        //i need to make sure no duplicates gets called at the same depth 
+        for(int i=idx;i<nums.size();i++){
+            if(i>idx&&nums[i]==nums[i-1]){
+                continue;
+            }
+            curr.push_back(nums[i]);
+            dfs(i+1,curr,nums,res);
+            curr.pop_back();
         }
-
-        // include nums[idx]
-        curr.push_back(nums[idx]);
-        auto left = backtrack(nums, curr, idx + 1);
-
-        // exclude nums[idx]
-        curr.pop_back();
-        auto right = backtrack(nums, curr, idx + 1);
-
-        // merge both results
-        left.insert(left.end(), right.begin(), right.end());
-        return left;
     }
-
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
         sort(nums.begin(),nums.end());
-        // generate all subsets
-        vector<vector<int>> res = backtrack(nums, {}, 0);
+        vector<vector<int>>res;
+        vector<int>curr;
+        dfs(0,curr,nums,res);
+        return res;
 
-      
-        set<vector<int>> s(res.begin(), res.end());
-
-       
-        return vector<vector<int>>(s.begin(), s.end());
     }
 };
