@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jee-van24/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/jee-van24/LeetCode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/jee-van24/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/jee-van24/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/jee-van24/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/jee-van24/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3644-minimum-positive-sum-subarray](https://github.com/jee-van24/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/jee-van24/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2529-range-product-queries-of-powers](https://github.com/jee-van24/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/jee-van24/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/jee-van24/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3644-minimum-positive-sum-subarray](https://github.com/jee-van24/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 | [4052-equal-score-substrings](https://github.com/jee-van24/LeetCode/tree/master/4052-equal-score-substrings) |
 | [4059-design-exam-scores-tracker](https://github.com/jee-van24/LeetCode/tree/master/4059-design-exam-scores-tracker) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jee-van24/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3447-clear-digits](https://github.com/jee-van24/LeetCode/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jee-van24/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/jee-van24/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jee-van24/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/jee-van24/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
