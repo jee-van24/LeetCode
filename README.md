@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jee-van24/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/jee-van24/LeetCode/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/jee-van24/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
+| [1783-ways-to-make-a-fair-array](https://github.com/jee-van24/LeetCode/tree/master/1783-ways-to-make-a-fair-array) |
 | [1813-maximum-erasure-value](https://github.com/jee-van24/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/jee-van24/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/jee-van24/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/jee-van24/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1783-ways-to-make-a-fair-array](https://github.com/jee-van24/LeetCode/tree/master/1783-ways-to-make-a-fair-array) |
 | [2529-range-product-queries-of-powers](https://github.com/jee-van24/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/jee-van24/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/jee-van24/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
