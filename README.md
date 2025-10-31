@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/jee-van24/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jee-van24/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/jee-van24/LeetCode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jee-van24/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/jee-van24/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/jee-van24/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/jee-van24/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/jee-van24/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/jee-van24/LeetCode/tree/master/3324-split-the-array) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/jee-van24/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jee-van24/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jee-van24/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jee-van24/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/jee-van24/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3373-maximum-prime-difference](https://github.com/jee-van24/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3374-count-alternating-subarrays](https://github.com/jee-van24/LeetCode/tree/master/3374-count-alternating-subarrays) |
 | [3462-vowels-game-in-a-string](https://github.com/jee-van24/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jee-van24/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jee-van24/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/jee-van24/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jee-van24/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
