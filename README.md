@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/jee-van24/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/jee-van24/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jee-van24/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2573-remove-nodes-from-linked-list](https://github.com/jee-van24/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3447-clear-digits](https://github.com/jee-van24/LeetCode/tree/master/3447-clear-digits) |
 | [3738-make-array-non-decreasing](https://github.com/jee-van24/LeetCode/tree/master/3738-make-array-non-decreasing) |
 ## Trie
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/jee-van24/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jee-van24/LeetCode/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/jee-van24/LeetCode/tree/master/2050-count-good-numbers) |
+| [2573-remove-nodes-from-linked-list](https://github.com/jee-van24/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jee-van24/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/jee-van24/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/jee-van24/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/jee-van24/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/jee-van24/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jee-van24/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Segment Tree
 |  |
@@ -736,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/jee-van24/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jee-van24/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/jee-van24/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/jee-van24/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3738-make-array-non-decreasing](https://github.com/jee-van24/LeetCode/tree/master/3738-make-array-non-decreasing) |
 ## Game Theory
 |  |
