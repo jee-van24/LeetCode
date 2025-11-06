@@ -602,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jee-van24/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jee-van24/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/jee-van24/LeetCode/tree/master/0342-power-of-four) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/jee-van24/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/jee-van24/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2529-range-product-queries-of-powers](https://github.com/jee-van24/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jee-van24/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
