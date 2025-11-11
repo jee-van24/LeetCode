@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void powerset(int idx,vector<int>&curr,vector<int>&nums,vector<vector<int>>&res){
+    void powerset(int idx,vector<int>curr,vector<int>&nums,vector<vector<int>>&res){
         if(idx==nums.size()){
             res.push_back(curr);
             return;
