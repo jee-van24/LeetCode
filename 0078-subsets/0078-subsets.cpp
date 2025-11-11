@@ -1,22 +1,22 @@
 class Solution {
 public:
-    vector<vector<int>> backtrack(vector<int>nums,vector<int>curr,int idx){
+    void powerset(int idx,vector<int>&curr,vector<int>&nums,vector<vector<int>>&res){
         if(idx==nums.size()){
-            return {curr};
+            res.push_back(curr);
+            return;
         }
-        //else consider both possibilities including the current element and not including the current element 
+        //can pick the current idx and not pick the current idx
         curr.push_back(nums[idx]);
-        auto left=backtrack(nums,curr,idx+1);
+        powerset(idx+1,curr,nums,res);
+        //undo the change and explore the other possibility
         curr.pop_back();
-        auto right=backtrack(nums,curr,idx+1);
-        left.insert(left.end(),right.begin(),right.end());
-        return left;
+        powerset(idx+1,curr,nums,res);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>>res;
-        vector<int>temp;
-        res=backtrack(nums,temp,0);
-        return res;
+        vector<int>arr;
 
+        powerset(0,arr,nums,res);
+        return res;
     }
 };
