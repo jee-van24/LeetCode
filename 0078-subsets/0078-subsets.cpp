@@ -1,22 +1,20 @@
 class Solution {
 public:
-    void powerset(int idx,vector<int>curr,vector<int>&nums,vector<vector<int>>&res){
-        if(idx==nums.size()){
-            res.push_back(curr);
-            return;
-        }
-        //can pick the current idx and not pick the current idx
-        curr.push_back(nums[idx]);
-        powerset(idx+1,curr,nums,res);
-        //undo the change and explore the other possibility
-        curr.pop_back();
-        powerset(idx+1,curr,nums,res);
-    }
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>>res;
-        vector<int>arr;
+        int n=nums.size();
 
-        powerset(0,arr,nums,res);
+       
+        for(int i=0;i<(1<<n);i++){
+            vector<int>ans;
+            for(int j=0;j<n;j++){
+                int temp=(1<<j);
+                if((temp&i)!=0){
+                    ans.push_back(nums[j]);
+                }
+            }
+            res.push_back(ans);
+        }
         return res;
     }
 };
