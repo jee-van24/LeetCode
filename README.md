@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jee-van24/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/jee-van24/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/jee-van24/LeetCode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/jee-van24/LeetCode/tree/master/0037-sudoku-solver) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jee-van24/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/jee-van24/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jee-van24/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jee-van24/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
