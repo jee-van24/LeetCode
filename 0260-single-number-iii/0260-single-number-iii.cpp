@@ -1,17 +1,20 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        unordered_map<int,int>map;
+        long long xorr=0;
         for(auto n:nums){
-            map[n]++;
+            xorr^=n;
         }
-        vector<int>res;
-        for(auto &p:map){
-            if(p.second==1){
-                res.push_back(p.first);
+        long long rightmostset=(xorr&(xorr-1))^xorr;
+        int b1=0,b2=0;
+        for(auto n:nums){
+            if(n&rightmostset){
+                b1^=n;
+            }else{
+                b2^=n;
             }
         }
-        sort(res.begin(),res.end());
-        return res;
+        return {b1,b2};
+
     }
 };
