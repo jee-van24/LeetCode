@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/jee-van24/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/jee-van24/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/jee-van24/LeetCode/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/jee-van24/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/jee-van24/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jee-van24/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/jee-van24/LeetCode/tree/master/0383-ransom-note) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/jee-van24/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/jee-van24/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0282-expression-add-operators](https://github.com/jee-van24/LeetCode/tree/master/0282-expression-add-operators) |
+| [0299-bulls-and-cows](https://github.com/jee-van24/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/jee-van24/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jee-van24/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jee-van24/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/jee-van24/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/jee-van24/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/jee-van24/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jee-van24/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
