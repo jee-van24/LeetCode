@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jee-van24/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jee-van24/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jee-van24/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/jee-van24/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/jee-van24/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jee-van24/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/jee-van24/LeetCode/tree/master/1657-find-the-winner-of-an-array-game) |
