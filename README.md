@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/jee-van24/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/jee-van24/LeetCode/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/jee-van24/LeetCode/tree/master/0137-single-number-ii) |
+| [0204-count-primes](https://github.com/jee-van24/LeetCode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/jee-van24/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/jee-van24/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/jee-van24/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/jee-van24/LeetCode/tree/master/0204-count-primes) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/jee-van24/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/jee-van24/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3221-find-the-peaks](https://github.com/jee-van24/LeetCode/tree/master/3221-find-the-peaks) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/jee-van24/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/jee-van24/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/jee-van24/LeetCode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/jee-van24/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/jee-van24/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/jee-van24/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/jee-van24/LeetCode/tree/master/0263-ugly-number) |
@@ -680,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/jee-van24/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/jee-van24/LeetCode/tree/master/0258-add-digits) |
 | [2716-prime-subtraction-operation](https://github.com/jee-van24/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/jee-van24/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
