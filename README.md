@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/jee-van24/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/jee-van24/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0554-brick-wall](https://github.com/jee-van24/LeetCode/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/jee-van24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/jee-van24/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jee-van24/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/jee-van24/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/jee-van24/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/jee-van24/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0554-brick-wall](https://github.com/jee-van24/LeetCode/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/jee-van24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/jee-van24/LeetCode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/jee-van24/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0940-fruit-into-baskets](https://github.com/jee-van24/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/jee-van24/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/jee-van24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/jee-van24/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1783-ways-to-make-a-fair-array](https://github.com/jee-van24/LeetCode/tree/master/1783-ways-to-make-a-fair-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jee-van24/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
