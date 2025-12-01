@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/jee-van24/LeetCode/tree/master/0204-count-primes) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/jee-van24/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/jee-van24/LeetCode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/jee-van24/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3221-find-the-peaks](https://github.com/jee-van24/LeetCode/tree/master/3221-find-the-peaks) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/jee-van24/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/jee-van24/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/jee-van24/LeetCode/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/jee-van24/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/jee-van24/LeetCode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/jee-van24/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/jee-van24/LeetCode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/jee-van24/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
