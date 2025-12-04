@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jee-van24/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jee-van24/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jee-van24/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jee-van24/LeetCode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1813-maximum-erasure-value](https://github.com/jee-van24/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/jee-van24/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/jee-van24/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jee-van24/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jee-van24/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1508-longest-happy-prefix](https://github.com/jee-van24/LeetCode/tree/master/1508-longest-happy-prefix) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jee-van24/LeetCode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/jee-van24/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/jee-van24/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/jee-van24/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -824,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/jee-van24/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/jee-van24/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/jee-van24/LeetCode/tree/master/0282-expression-add-operators) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jee-van24/LeetCode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1980-find-unique-binary-string](https://github.com/jee-van24/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/jee-van24/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/jee-van24/LeetCode/tree/master/2279-maximum-split-of-positive-even-integers) |
