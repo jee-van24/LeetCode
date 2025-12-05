@@ -620,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jee-van24/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/jee-van24/LeetCode/tree/master/2169-simple-bank-system) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/jee-van24/LeetCode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/jee-van24/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jee-van24/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/jee-van24/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/jee-van24/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -799,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/jee-van24/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/jee-van24/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/jee-van24/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/jee-van24/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/jee-van24/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/jee-van24/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jee-van24/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
