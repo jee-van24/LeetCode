@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/jee-van24/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/jee-van24/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3644-minimum-positive-sum-subarray](https://github.com/jee-van24/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/jee-van24/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3738-make-array-non-decreasing](https://github.com/jee-van24/LeetCode/tree/master/3738-make-array-non-decreasing) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/jee-van24/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/jee-van24/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jee-van24/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/jee-van24/LeetCode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/jee-van24/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/jee-van24/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/jee-van24/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/jee-van24/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3644-minimum-positive-sum-subarray](https://github.com/jee-van24/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/jee-van24/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [4052-equal-score-substrings](https://github.com/jee-van24/LeetCode/tree/master/4052-equal-score-substrings) |
 | [4059-design-exam-scores-tracker](https://github.com/jee-van24/LeetCode/tree/master/4059-design-exam-scores-tracker) |
 ## Matrix
