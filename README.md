@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/jee-van24/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0879-maximize-distance-to-closest-person](https://github.com/jee-van24/LeetCode/tree/master/0879-maximize-distance-to-closest-person) |
 | [0940-fruit-into-baskets](https://github.com/jee-van24/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/jee-van24/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0946-validate-stack-sequences](https://github.com/jee-van24/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0954-maximum-sum-circular-subarray](https://github.com/jee-van24/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jee-van24/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/jee-van24/LeetCode/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/jee-van24/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0886-score-of-parentheses](https://github.com/jee-van24/LeetCode/tree/master/0886-score-of-parentheses) |
+| [0944-delete-columns-to-make-sorted](https://github.com/jee-van24/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jee-van24/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1006-vowel-spellchecker](https://github.com/jee-van24/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/jee-van24/LeetCode/tree/master/1078-remove-outermost-parentheses) |
