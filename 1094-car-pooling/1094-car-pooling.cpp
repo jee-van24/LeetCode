@@ -5,14 +5,8 @@ public:
              [](const vector<int>& a, const vector<int>& b) {
                  return a[1] < b[1];
              });
-        for (auto p : trips) {
-            for (auto n : p) {
-                cout << n << " ";
-            }
-            cout << endl;
-        }
+        
         unordered_set<int>idx;
-        int prev=0;
         int total=0;
         for(int i=0;i<trips.size();i++){
             total+=trips[i][0];
