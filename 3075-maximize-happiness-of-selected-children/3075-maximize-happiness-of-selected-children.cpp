@@ -5,23 +5,15 @@ public:
         sort(happiness.rbegin(),happiness.rend());
         int i=0;
         int j=0;
-        while(i<k&&happiness[i]>=0){
-            if(i==0){
-                res+=happiness[i];
+        while(i<k&&happiness[i]-j>=0){
+            if(happiness[i]-j>0){
+                res+=happiness[i]-j;
                 i++;
                 j++;
                 continue;
-            }
-            if(happiness[i]>=0){
-                if(happiness[i]-j>0){
-                    res+=happiness[i]-j;
-                    i++;
-                    j++;
-                    continue;
-                }else if(happiness[i]-j==0){
+                }else{
                     break;
                 }
-            }
         }
         return res;
     }
