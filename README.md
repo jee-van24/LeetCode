@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/jee-van24/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/jee-van24/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/jee-van24/LeetCode/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/jee-van24/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/jee-van24/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/jee-van24/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/jee-van24/LeetCode/tree/master/0079-word-search) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jee-van24/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/jee-van24/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/jee-van24/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/jee-van24/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/jee-van24/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/jee-van24/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/jee-van24/LeetCode/tree/master/0231-power-of-two) |
