@@ -5,23 +5,16 @@ public:
         auto prev=points[0];
         for(int i=1;i<points.size();i++){
             auto curr=points[i];
-            int dx=abs(curr[0]-prev[0]);
-            int dy=abs(curr[1]-prev[1]);
-            if(dx==dy){
-                res+=dx;
-            }else{
+            if(abs(curr[0]-prev[0])==abs(curr[1]-prev[1])){
+                res+=abs(curr[0]-prev[0]);
+            }else if(abs(curr[0]-prev[0])!=abs(curr[1]-prev[1])){
                 if(curr[0]==prev[0]){
-                    res+=dy;
+                    res+=abs(curr[1]-prev[1]);
                 }else if(curr[1]==prev[1]){
-                    res+=dx;
+                    res+=abs(curr[0]-prev[0]);
                 }else{
-                    if(dx<dy){
-                        res+=dx;
-                        res+=abs(dx-dy);
-                    }else{
-                        res+=dy;
-                        res+=abs(dx-dy);
-                    }
+                    res+=min(abs(curr[0]-prev[0]),abs(curr[1]-prev[1]));
+                    res+=abs(abs(curr[0]-prev[0])-abs(curr[1]-prev[1]));
                 }
             }
             prev=curr;
