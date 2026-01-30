@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jee-van24/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/jee-van24/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/jee-van24/LeetCode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2211-count-collisions-on-a-road](https://github.com/jee-van24/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jee-van24/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/jee-van24/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jee-van24/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/jee-van24/LeetCode/tree/master/2169-simple-bank-system) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/jee-van24/LeetCode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/jee-van24/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2211-count-collisions-on-a-road](https://github.com/jee-van24/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jee-van24/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/jee-van24/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/jee-van24/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -763,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/jee-van24/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/jee-van24/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jee-van24/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2211-count-collisions-on-a-road](https://github.com/jee-van24/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jee-van24/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2573-remove-nodes-from-linked-list](https://github.com/jee-van24/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3447-clear-digits](https://github.com/jee-van24/LeetCode/tree/master/3447-clear-digits) |
