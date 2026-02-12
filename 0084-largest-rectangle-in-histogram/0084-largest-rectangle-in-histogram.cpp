@@ -16,10 +16,7 @@ public:
             }
             s.push({i,heights[i]});
         }
-        cout<<"next: ";
-        for(auto n:next){
-            cout<<n<<" ";
-        }
+        
         cout<<endl;
         while(!s.empty()){
             s.pop();
@@ -35,10 +32,7 @@ public:
             }
             s.push({i,heights[i]});
         }
-        cout<<"prev :";
-        for(auto n:prev){
-            cout<<n<<" ";
-        }
+       
         int res=0;
         for(int i=0;i<n;i++){
             int left=prev[i]+1;
