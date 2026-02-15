@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jee-van24/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/jee-van24/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/jee-van24/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/jee-van24/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/jee-van24/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/jee-van24/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/jee-van24/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/jee-van24/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/jee-van24/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/jee-van24/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/jee-van24/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/jee-van24/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/jee-van24/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/jee-van24/LeetCode/tree/master/0231-power-of-two) |
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jee-van24/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/jee-van24/LeetCode/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/jee-van24/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/jee-van24/LeetCode/tree/master/0735-asteroid-collision) |
@@ -827,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/jee-van24/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/jee-van24/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/jee-van24/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jee-van24/LeetCode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/jee-van24/LeetCode/tree/master/0137-single-number-ii) |
