@@ -7,7 +7,6 @@ public:
             res.push_back(rem);
             n/=2;
         }
-        reverse(res.begin(),res.end());
         return res;
     }
     bool hasAlternatingBits(int n) {
