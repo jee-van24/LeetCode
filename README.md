@@ -845,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jee-van24/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jee-van24/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/jee-van24/LeetCode/tree/master/0342-power-of-four) |
+| [0693-binary-number-with-alternating-bits](https://github.com/jee-van24/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/jee-van24/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jee-van24/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/jee-van24/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
