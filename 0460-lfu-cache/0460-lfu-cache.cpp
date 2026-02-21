@@ -1,100 +1,105 @@
 class LFUCache {
 public:
-    // Node structure
     class Node {
     public:
         int key, val, cnt;
-        Node *prev, *next;
-        Node(int key, int val) {
-            this->key = key;
-            this->val = val;
-            this->cnt = 1;
-            prev = next = nullptr;
+        Node* next;
+        Node* prev;
+        Node(int k, int v) {
+            key = k;
+            val = v;
+            cnt = 1;
+            next = prev = nullptr;
         }
     };
-
-    // Doubly linked list for nodes with same frequency
-    class List {
+    class DLL {
     public:
+        Node* head;
+        Node* tail;
         int size;
-        Node *head, *tail;
-        List() {
+        DLL() {
             head = new Node(-1, -1);
             tail = new Node(-1, -1);
             head->next = tail;
             tail->prev = head;
             size = 0;
         }
-        void deln(Node* node) {
-            node->prev->next = node->next;
-            node->next->prev = node->prev;
-            size--;
-        }
-        void ins(Node* node) {
-            node->next = head->next;
-            head->next->prev = node;
-            head->next = node;
-            node->prev = head;
+        void insertfront(Node* newNode) {
+            head->next->prev = newNode;
+            newNode->next = head->next;
+            head->next = newNode;
+            newNode->prev = head;
             size++;
         }
+        void detach(Node* delNode) {
+            Node* delNext = delNode->next;
+            Node* delPrev = delNode->prev;
+            delPrev->next = delNext;
+            delNext->prev = delPrev;
+            size--;
+        }
+        Node* DelLast() {
+            if (size == 0)
+                return NULL;
+            Node* node = tail->prev;
+            detach(node);
+            return node;
+        }
     };
-
-    int capacity, minfreq, cursize;
-    map<int, Node*> cache;   // key -> Node
-    map<int, List*> freq;    // freq -> List of nodes
-
+    unordered_map<int,Node*>KeyTable;
+    unordered_map<int,DLL*>FreqTable;
+    int minfreq=0,cap=0;
     LFUCache(int capacity) {
-        this->capacity = capacity;
-        cursize = 0;
-        minfreq = 0;
+        cap=capacity;
+        minfreq=0;
+    }
+    void updatefreq(Node* node){
+        int freq=node->cnt;
+        DLL* oldlist=FreqTable[freq];
+        oldlist->detach(node);
+        if(freq==minfreq&&oldlist->size==0){
+            minfreq++;
+        }
+        node->cnt++;
+        int newfreq=node->cnt;
+        if(!FreqTable.count(newfreq)){
+            FreqTable[newfreq]=new DLL();
+        }
+        FreqTable[newfreq]->insertfront(node);
     }
 
     int get(int key) {
-        if (cache.find(key) != cache.end()) {
-            Node* node = cache[key];
-            update(node);
-            return node->val;
+        int ans=-1;
+        if(KeyTable.count(key)){
+            ans=KeyTable[key]->val;
+            Node* node=KeyTable[key];
+            updatefreq(node);
+            return ans;
         }
-        return -1;
+        return ans;
     }
+
 
     void put(int key, int value) {
-        if (capacity == 0) return;
-
-        if (cache.find(key) != cache.end()) {
-            Node* node = cache[key];
-            node->val = value;
-            update(node);
-        } else {
-            if (cursize >= capacity) {
-                // Remove least frequently used node
-                Node* node = freq[minfreq]->tail->prev;
-                cache.erase(node->key);
-                freq[minfreq]->deln(node);
-                cursize--;
+        if(KeyTable.count(key)){
+            Node* existing=KeyTable[key];
+            existing->val=value;
+            updatefreq(existing);
+        }else{
+            Node* newNode=new Node(key,value);
+            if(KeyTable.size()==cap){
+                DLL* list=FreqTable[minfreq];
+                Node* nodetoremove=list->DelLast();
+                KeyTable.erase(nodetoremove->key);
+                delete(nodetoremove);
             }
-            Node* newn = new Node(key, value);
-            minfreq = 1;
-            List* list = new List();
-            if (freq.find(minfreq) != freq.end())
-                list = freq[minfreq];
-            list->ins(newn);
-            freq[minfreq] = list;
-            cache[key] = newn;
-            cursize++;
+            minfreq=1;
+            if(!FreqTable.count(1)){
+                FreqTable[1]=new DLL();     
+            }
+            FreqTable[1]->insertfront(newNode);
+            KeyTable[key]=newNode;
         }
-    }
-
-    void update(Node* node) {
-        freq[node->cnt]->deln(node);
-        if (node->cnt == minfreq && freq[node->cnt]->size == 0)
-            minfreq++;
-        List* list = new List();
-        if (freq.find(node->cnt + 1) != freq.end())
-            list = freq[node->cnt + 1];
-        node->cnt++;
-        list->ins(node);
-        freq[node->cnt] = list;
     }
 };
 
