@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/jee-van24/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jee-van24/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jee-van24/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/jee-van24/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/jee-van24/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/jee-van24/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/jee-van24/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/jee-van24/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jee-van24/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jee-van24/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/jee-van24/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1006-vowel-spellchecker](https://github.com/jee-van24/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/jee-van24/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1027-longest-arithmetic-subsequence](https://github.com/jee-van24/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/jee-van24/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/jee-van24/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/jee-van24/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0992-subarrays-with-k-different-integers](https://github.com/jee-van24/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jee-van24/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/jee-van24/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jee-van24/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/jee-van24/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/jee-van24/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/jee-van24/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/jee-van24/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/jee-van24/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/jee-van24/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jee-van24/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
