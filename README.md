@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/jee-van24/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/jee-van24/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/jee-van24/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/jee-van24/LeetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jee-van24/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/jee-van24/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0853-most-profit-assigning-work](https://github.com/jee-van24/LeetCode/tree/master/0853-most-profit-assigning-work) |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/jee-van24/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jee-van24/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/jee-van24/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/jee-van24/LeetCode/tree/master/0739-daily-temperatures) |
 | [0886-score-of-parentheses](https://github.com/jee-van24/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/jee-van24/LeetCode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/jee-van24/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -1051,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/jee-van24/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/jee-van24/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jee-van24/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/jee-van24/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/jee-van24/LeetCode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/jee-van24/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/jee-van24/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
