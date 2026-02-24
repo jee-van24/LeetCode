@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/jee-van24/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jee-van24/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jee-van24/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jee-van24/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jee-van24/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jee-van24/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jee-van24/LeetCode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1328-break-a-palindrome](https://github.com/jee-van24/LeetCode/tree/master/1328-break-a-palindrome) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jee-van24/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jee-van24/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jee-van24/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jee-van24/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/jee-van24/LeetCode/tree/master/1508-longest-happy-prefix) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jee-van24/LeetCode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/jee-van24/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/jee-van24/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jee-van24/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jee-van24/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jee-van24/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/jee-van24/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/jee-van24/LeetCode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
