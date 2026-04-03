@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jee-van24/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/jee-van24/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/jee-van24/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1706-where-will-the-ball-fall](https://github.com/jee-van24/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jee-van24/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1783-ways-to-make-a-fair-array](https://github.com/jee-van24/LeetCode/tree/master/1783-ways-to-make-a-fair-array) |
 | [1813-maximum-erasure-value](https://github.com/jee-van24/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jee-van24/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jee-van24/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jee-van24/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1706-where-will-the-ball-fall](https://github.com/jee-van24/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jee-van24/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1895-largest-magic-square](https://github.com/jee-van24/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/jee-van24/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/jee-van24/LeetCode/tree/master/1642-water-bottles) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/jee-van24/LeetCode/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/jee-van24/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1706-where-will-the-ball-fall](https://github.com/jee-van24/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 | [2109-adding-spaces-to-a-string](https://github.com/jee-van24/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jee-van24/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/jee-van24/LeetCode/tree/master/2169-simple-bank-system) |
