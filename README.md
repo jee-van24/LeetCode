@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/jee-van24/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0846-hand-of-straights](https://github.com/jee-van24/LeetCode/tree/master/0846-hand-of-straights) |
 | [0853-most-profit-assigning-work](https://github.com/jee-van24/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [0874-walking-robot-simulation](https://github.com/jee-van24/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0879-maximize-distance-to-closest-person](https://github.com/jee-van24/LeetCode/tree/master/0879-maximize-distance-to-closest-person) |
 | [0907-sum-of-subarray-minimums](https://github.com/jee-van24/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/jee-van24/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/jee-van24/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0840-magic-squares-in-grid](https://github.com/jee-van24/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0846-hand-of-straights](https://github.com/jee-van24/LeetCode/tree/master/0846-hand-of-straights) |
+| [0874-walking-robot-simulation](https://github.com/jee-van24/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0930-binary-subarrays-with-sum](https://github.com/jee-van24/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/jee-van24/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jee-van24/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -875,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/jee-van24/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/jee-van24/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/jee-van24/LeetCode/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/jee-van24/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0946-validate-stack-sequences](https://github.com/jee-van24/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1094-car-pooling](https://github.com/jee-van24/LeetCode/tree/master/1094-car-pooling) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/jee-van24/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
