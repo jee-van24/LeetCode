@@ -16,11 +16,11 @@ public:
             int curr = nums[i];
             int revcurr = rev(curr);
 
-            if(map.count(revcurr)){
-                res = min(res, abs(i - map[revcurr]));
+            if(map.count(curr)){
+                res = min(res, abs(i - map[curr]));
             }
 
-            map[curr] = i;
+            map[revcurr] = i;
         }
 
         return res == INT_MAX ? -1 : res;
