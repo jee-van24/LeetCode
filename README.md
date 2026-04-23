@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/jee-van24/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2428-equal-row-and-column-pairs](https://github.com/jee-van24/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/jee-van24/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/jee-van24/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-task-scheduler-ii](https://github.com/jee-van24/LeetCode/tree/master/2483-task-scheduler-ii) |
 | [2529-range-product-queries-of-powers](https://github.com/jee-van24/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jee-van24/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/jee-van24/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jee-van24/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/jee-van24/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/jee-van24/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/jee-van24/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jee-van24/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/jee-van24/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -971,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/jee-van24/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/jee-van24/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jee-van24/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/jee-van24/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
