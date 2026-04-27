@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/jee-van24/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jee-van24/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/jee-van24/LeetCode/tree/master/1390-four-divisors) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jee-van24/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jee-van24/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jee-van24/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jee-van24/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/jee-van24/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/jee-van24/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jee-van24/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jee-van24/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jee-van24/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jee-van24/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jee-van24/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -1124,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/jee-van24/LeetCode/tree/master/0079-word-search) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jee-van24/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jee-van24/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Queue
 |  |
 | ------- |
@@ -1243,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jee-van24/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1256,4 +1260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/jee-van24/LeetCode/tree/master/0460-lfu-cache) |
+## Union-Find
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jee-van24/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
