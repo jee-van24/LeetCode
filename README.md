@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jee-van24/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/jee-van24/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/jee-van24/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jee-van24/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/jee-van24/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/jee-van24/LeetCode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2104-sum-of-subarray-ranges](https://github.com/jee-van24/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jee-van24/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1895-largest-magic-square](https://github.com/jee-van24/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/jee-van24/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jee-van24/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/jee-van24/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/jee-van24/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/jee-van24/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-the-k-strongest-values-in-an-array](https://github.com/jee-van24/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jee-van24/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jee-van24/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jee-van24/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/jee-van24/LeetCode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jee-van24/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jee-van24/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -794,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/jee-van24/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/jee-van24/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/jee-van24/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jee-van24/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/jee-van24/LeetCode/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jee-van24/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/jee-van24/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
