@@ -1,29 +1,29 @@
 class Solution {
 public:
-    bool check(int num,unordered_set<int>&invalid,unordered_set<int>&changeable){
-        bool changed=false;
-        while(num!=0){
-            int rem=num%10;
-            if(invalid.count(rem)){
-                return false;
-            }
-            if(changeable.count(rem)){
-               changed=true;
-            }
-            num/=10;
+    int solve(int pos, string& n,vector<vector<vector<int>>>&dp,bool tight, bool changed,vector<int>&valid){
+        if(pos==n.size()){
+            return changed;
         }
-        return changed;
-
+        if(dp[pos][tight][changed]!=-1){
+            return dp[pos][tight][changed];
+        }
+        int ans=0;
+        int limit=(tight==true)?n[pos]-'0':9;
+        for(auto d:valid){
+            if(d>limit){
+                continue;
+            }
+            bool newtight=(tight&&(limit==d));
+            bool newchanged=changed||d==2||d==5||d==6||d==9;
+            ans+=solve(pos+1,n,dp,newtight,newchanged,valid);
+        }
+        return dp[pos][tight][changed]=ans;
     }
     int rotatedDigits(int n) {
-        int res=0;
-        unordered_set<int>invalid={3,4,7};
-        unordered_set<int>changeable={2,5,6,9};
-        for(int i=1;i<=n;i++){
-            if(check(i,invalid,changeable)){
-                res++;
-            }
-        }
+        vector<vector<vector<int>>>dp(11,vector<vector<int>>(2,vector<int>(2,-1)));
+        string str=to_string(n);
+        vector<int>valid={0,1,2,5,6,8,9};
+        int res=solve(0,str,dp,true,false,valid);
         return res;
     }
 };
