@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/jee-van24/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0686-repeated-string-match](https://github.com/jee-van24/LeetCode/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/jee-van24/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0796-rotate-string](https://github.com/jee-van24/LeetCode/tree/master/0796-rotate-string) |
 | [0886-score-of-parentheses](https://github.com/jee-van24/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jee-van24/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jee-van24/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -1095,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/jee-van24/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/jee-van24/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/jee-van24/LeetCode/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/jee-van24/LeetCode/tree/master/0796-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/jee-van24/LeetCode/tree/master/1508-longest-happy-prefix) |
 ## Number Theory
 |  |
