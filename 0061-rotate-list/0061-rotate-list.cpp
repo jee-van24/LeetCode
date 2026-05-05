@@ -11,33 +11,30 @@
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
-        int len=0;
-        if(!head||!head->next)return head;
         vector<int>arr;
-        vector<int>nums;
-        ListNode* temp=head;
-        while(temp){
-            len++;
-            arr.push_back(temp->val);
-            temp=temp->next;
-
-        }
-        k=k%len;
-        if(k==0)return head;
-        cout<<len;
-        for(int i=len-k;i<len;i++){
-            nums.push_back(arr[i]);
-        }
-        for(int i=0;i<len-k;i++){
-            nums.push_back(arr[i]);
-        }
-        ListNode* dummy=new ListNode(-1);
-        ListNode* curr=dummy;
-        for(auto num:nums){
-            curr->next=new ListNode(num);
+        if(head==nullptr)return nullptr;
+        ListNode* curr=head;
+        while(curr){
+            arr.push_back(curr->val);
             curr=curr->next;
         }
-        return dummy->next;
-        
+        vector<int>temp;
+        int n=arr.size();
+        k=k%n;
+        for(int i=n-k;i<arr.size();i++){
+            temp.push_back(arr[i]);
+        }
+        for(int i=0;i<n-k;i++){
+            temp.push_back(arr[i]);
+        }
+        curr=head;
+        int i=0;
+        while(curr&&i<temp.size()){
+            curr->val=temp[i];
+            i++;
+            curr=curr->next;
+        }
+        return head;
+
     }
 };
