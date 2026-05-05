@@ -12,24 +12,11 @@
 class Solution {
 public:
     int maxDepth(TreeNode* root) {
-        queue<TreeNode*>q;
-        int cnt=0;
-        if(root==nullptr)return 0;
-        q.push(root);
-        while(!q.empty()){
-           int n=q.size();
-           cnt++;
-           for(int i=0;i<n;i++){
-                auto node=q.front();
-                q.pop();
-                cout<<node->val<<" ";
-                if(node->left){
-                    q.push(node->left);
-                }if(node->right){
-                    q.push(node->right);
-                }
-           }
+        if(root==nullptr){
+            return 0;
         }
-        return cnt;
+        int left=maxDepth(root->left);
+        int right=maxDepth(root->right);
+        return 1+max(left,right);
     }
 };
