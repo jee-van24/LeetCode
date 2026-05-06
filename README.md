@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/jee-van24/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/jee-van24/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jee-van24/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/jee-van24/LeetCode/tree/master/1861-rotating-the-box) |
 | [1895-largest-magic-square](https://github.com/jee-van24/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/jee-van24/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/jee-van24/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jee-van24/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1706-where-will-the-ball-fall](https://github.com/jee-van24/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jee-van24/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/jee-van24/LeetCode/tree/master/1861-rotating-the-box) |
 | [1895-largest-magic-square](https://github.com/jee-van24/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/jee-van24/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jee-van24/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -910,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/jee-van24/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/jee-van24/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jee-van24/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/jee-van24/LeetCode/tree/master/1861-rotating-the-box) |
 | [2109-adding-spaces-to-a-string](https://github.com/jee-van24/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jee-van24/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jee-van24/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
