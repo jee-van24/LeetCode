@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/jee-van24/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jee-van24/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jee-van24/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jee-van24/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1006-vowel-spellchecker](https://github.com/jee-van24/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/jee-van24/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/jee-van24/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/jee-van24/LeetCode/tree/master/0846-hand-of-straights) |
 | [0853-most-profit-assigning-work](https://github.com/jee-van24/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/jee-van24/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/jee-van24/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/jee-van24/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -1154,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/jee-van24/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jee-van24/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jee-van24/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jee-van24/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1280,6 +1283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/jee-van24/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jee-van24/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -1288,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/jee-van24/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/jee-van24/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jee-van24/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Binary Tree
@@ -1302,6 +1307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/jee-van24/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jee-van24/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Data Stream
 |  |
