@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jee-van24/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2751-robot-collisions](https://github.com/jee-van24/LeetCode/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/jee-van24/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jee-van24/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2832-find-the-longest-equal-subarray](https://github.com/jee-van24/LeetCode/tree/master/2832-find-the-longest-equal-subarray) |
 | [2906-construct-product-matrix](https://github.com/jee-van24/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/jee-van24/LeetCode/tree/master/3002-maximum-size-of-a-set-after-removals) |
@@ -878,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/jee-van24/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/jee-van24/LeetCode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jee-van24/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jee-van24/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jee-van24/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/jee-van24/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Memoization
