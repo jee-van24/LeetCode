@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/jee-van24/LeetCode/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/jee-van24/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jee-van24/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/jee-van24/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2832-find-the-longest-equal-subarray](https://github.com/jee-van24/LeetCode/tree/master/2832-find-the-longest-equal-subarray) |
 | [2906-construct-product-matrix](https://github.com/jee-van24/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/jee-van24/LeetCode/tree/master/3002-maximum-size-of-a-set-after-removals) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jee-van24/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2615-sum-of-distances](https://github.com/jee-van24/LeetCode/tree/master/2615-sum-of-distances) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jee-van24/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2784-check-if-array-is-good](https://github.com/jee-van24/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2832-find-the-longest-equal-subarray](https://github.com/jee-van24/LeetCode/tree/master/2832-find-the-longest-equal-subarray) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jee-van24/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/jee-van24/LeetCode/tree/master/3002-maximum-size-of-a-set-after-removals) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-minimum-score-by-changing-two-elements](https://github.com/jee-van24/LeetCode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/jee-van24/LeetCode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2751-robot-collisions](https://github.com/jee-van24/LeetCode/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/jee-van24/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jee-van24/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/jee-van24/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/jee-van24/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
