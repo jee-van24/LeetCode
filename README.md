@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jee-van24/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jee-van24/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1306-minimum-absolute-difference](https://github.com/jee-van24/LeetCode/tree/master/1306-minimum-absolute-difference) |
+| [1306-jump-game-iii](https://github.com/jee-van24/LeetCode/tree/master/1306-jump-game-iii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jee-van24/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jee-van24/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/jee-van24/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -1169,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/jee-van24/LeetCode/tree/master/1306-jump-game-iii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jee-van24/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jee-van24/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Queue
@@ -1305,6 +1307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/jee-van24/LeetCode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jee-van24/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Binary Tree
 |  |
