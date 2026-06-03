@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/jee-van24/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jee-van24/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jee-van24/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2126-destroying-asteroids](https://github.com/jee-van24/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jee-van24/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jee-van24/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jee-van24/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/jee-van24/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1975-maximum-matrix-sum](https://github.com/jee-van24/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/jee-van24/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2126-destroying-asteroids](https://github.com/jee-van24/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/jee-van24/LeetCode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/jee-van24/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jee-van24/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -743,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jee-van24/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/jee-van24/LeetCode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jee-van24/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2126-destroying-asteroids](https://github.com/jee-van24/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jee-van24/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/jee-van24/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/jee-van24/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
