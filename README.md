@@ -872,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jee-van24/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jee-van24/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/jee-van24/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/jee-van24/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/jee-van24/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jee-van24/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/jee-van24/LeetCode/tree/master/3830-find-closest-person) |
@@ -913,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jee-van24/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jee-van24/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/jee-van24/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/jee-van24/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Memoization
 |  |
 | ------- |
