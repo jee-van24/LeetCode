@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/jee-van24/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/jee-van24/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/jee-van24/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1840-maximum-building-height](https://github.com/jee-van24/LeetCode/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/jee-van24/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/jee-van24/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jee-van24/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jee-van24/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/jee-van24/LeetCode/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jee-van24/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1840-maximum-building-height](https://github.com/jee-van24/LeetCode/tree/master/1840-maximum-building-height) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jee-van24/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jee-van24/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/jee-van24/LeetCode/tree/master/2070-most-beautiful-item-for-each-query) |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jee-van24/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/jee-van24/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/jee-van24/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1840-maximum-building-height](https://github.com/jee-van24/LeetCode/tree/master/1840-maximum-building-height) |
 | [2032-largest-odd-number-in-string](https://github.com/jee-van24/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jee-van24/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/jee-van24/LeetCode/tree/master/2050-count-good-numbers) |
