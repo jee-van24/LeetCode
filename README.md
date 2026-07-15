@@ -789,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/jee-van24/LeetCode/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/jee-van24/LeetCode/tree/master/1291-sequential-digits) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/jee-van24/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/jee-van24/LeetCode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/jee-van24/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
