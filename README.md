@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jee-van24/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jee-van24/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jee-van24/LeetCode/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/jee-van24/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/jee-van24/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/jee-van24/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/jee-van24/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -828,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/jee-van24/LeetCode/tree/master/0396-rotate-function) |
 | [0445-add-two-numbers-ii](https://github.com/jee-van24/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/jee-van24/LeetCode/tree/master/0447-number-of-boomerangs) |
+| [0486-predict-the-winner](https://github.com/jee-van24/LeetCode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/jee-van24/LeetCode/tree/master/0507-perfect-number) |
 | [0556-next-greater-element-iii](https://github.com/jee-van24/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jee-van24/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -907,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/jee-van24/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0396-rotate-function](https://github.com/jee-van24/LeetCode/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/jee-van24/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/jee-van24/LeetCode/tree/master/0486-predict-the-winner) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/jee-van24/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0788-rotated-digits](https://github.com/jee-van24/LeetCode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/jee-van24/LeetCode/tree/master/0877-stone-game) |
@@ -1136,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/jee-van24/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/jee-van24/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jee-van24/LeetCode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/jee-van24/LeetCode/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jee-van24/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/jee-van24/LeetCode/tree/master/2050-count-good-numbers) |
 | [2573-remove-nodes-from-linked-list](https://github.com/jee-van24/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -1324,6 +1328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/jee-van24/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/jee-van24/LeetCode/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/jee-van24/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Combinatorics
@@ -1389,4 +1394,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jee-van24/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/jee-van24/LeetCode/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/jee-van24/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
