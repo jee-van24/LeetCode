@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/jee-van24/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/jee-van24/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1094-car-pooling](https://github.com/jee-van24/LeetCode/tree/master/1094-car-pooling) |
+| [1140-stone-game-ii](https://github.com/jee-van24/LeetCode/tree/master/1140-stone-game-ii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/jee-van24/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jee-van24/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jee-van24/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/jee-van24/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/jee-van24/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/jee-van24/LeetCode/tree/master/1094-car-pooling) |
+| [1140-stone-game-ii](https://github.com/jee-van24/LeetCode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jee-van24/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jee-van24/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jee-van24/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -846,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/jee-van24/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/jee-van24/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/jee-van24/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/jee-van24/LeetCode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jee-van24/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jee-van24/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/jee-van24/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -924,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/jee-van24/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1027-longest-arithmetic-subsequence](https://github.com/jee-van24/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/jee-van24/LeetCode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1140-stone-game-ii](https://github.com/jee-van24/LeetCode/tree/master/1140-stone-game-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/jee-van24/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/jee-van24/LeetCode/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/jee-van24/LeetCode/tree/master/1406-stone-game-iii) |
@@ -1339,6 +1343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/jee-van24/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/jee-van24/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/jee-van24/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jee-van24/LeetCode/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/jee-van24/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Combinatorics
@@ -1409,11 +1414,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/jee-van24/LeetCode/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/jee-van24/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jee-van24/LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/jee-van24/LeetCode/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/jee-van24/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jee-van24/LeetCode/tree/master/1406-stone-game-iii) |
 ## Graph Theory
 |  |
