@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jee-van24/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/jee-van24/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jee-van24/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/jee-van24/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/jee-van24/LeetCode/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jee-van24/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/jee-van24/LeetCode/tree/master/1406-stone-game-iii) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/jee-van24/LeetCode/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jee-van24/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jee-van24/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/jee-van24/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jee-van24/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jee-van24/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jee-van24/LeetCode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jee-van24/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1328-break-a-palindrome](https://github.com/jee-van24/LeetCode/tree/master/1328-break-a-palindrome) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/jee-van24/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1386-cinema-seat-allocation](https://github.com/jee-van24/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/jee-van24/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jee-van24/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/jee-van24/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
@@ -1129,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/jee-van24/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/jee-van24/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jee-van24/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/jee-van24/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/jee-van24/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jee-van24/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/jee-van24/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
