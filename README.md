@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/jee-van24/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jee-van24/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/jee-van24/LeetCode/tree/master/3002-maximum-size-of-a-set-after-removals) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/jee-van24/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jee-van24/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/jee-van24/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/jee-van24/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -1035,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jee-van24/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2739-total-distance-traveled](https://github.com/jee-van24/LeetCode/tree/master/2739-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/jee-van24/LeetCode/tree/master/2751-robot-collisions) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/jee-van24/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/jee-van24/LeetCode/tree/master/3379-transformed-array) |
 | [3447-clear-digits](https://github.com/jee-van24/LeetCode/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jee-van24/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
