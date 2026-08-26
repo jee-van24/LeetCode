@@ -21,7 +21,6 @@ public:
 
             while (mp['1'] == k) {
 
-                // Remove leading zeros from the current window.
                 while (s[l] == '0') {
                     mp[s[l]]--;
                     if (mp[s[l]] == 0)
@@ -33,7 +32,7 @@ public:
                 string temp = s.substr(l, r - l + 1);
                 res = comp(res, temp);
 
-                // Remove the leftmost 1.
+                // remove the leftmost 1.
                 mp[s[l]]--;
                 if (mp[s[l]] == 0)
                     mp.erase(s[l]);
