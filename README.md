@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/jee-van24/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/jee-van24/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jee-van24/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/jee-van24/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4003-longest-fibonacci-subarray](https://github.com/jee-van24/LeetCode/tree/master/4003-longest-fibonacci-subarray) |
 | [4059-design-exam-scores-tracker](https://github.com/jee-van24/LeetCode/tree/master/4059-design-exam-scores-tracker) |
 ## Binary Search
@@ -930,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3830-find-closest-person](https://github.com/jee-van24/LeetCode/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/jee-van24/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jee-van24/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/jee-van24/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
