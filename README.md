@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/jee-van24/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/jee-van24/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/jee-van24/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/jee-van24/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [4003-longest-fibonacci-subarray](https://github.com/jee-van24/LeetCode/tree/master/4003-longest-fibonacci-subarray) |
 | [4059-design-exam-scores-tracker](https://github.com/jee-van24/LeetCode/tree/master/4059-design-exam-scores-tracker) |
 ## Binary Search
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/jee-van24/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3714-longest-balanced-substring-ii](https://github.com/jee-van24/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3903-smallest-stable-index-i](https://github.com/jee-van24/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/jee-van24/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [4052-equal-score-substrings](https://github.com/jee-van24/LeetCode/tree/master/4052-equal-score-substrings) |
 | [4059-design-exam-scores-tracker](https://github.com/jee-van24/LeetCode/tree/master/4059-design-exam-scores-tracker) |
 ## Matrix
