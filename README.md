@@ -1277,6 +1277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/jee-van24/LeetCode/tree/master/1306-jump-game-iii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jee-van24/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jee-van24/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jee-van24/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/jee-van24/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Queue
 |  |
@@ -1412,6 +1413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jee-van24/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1439,6 +1441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jee-van24/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jee-van24/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Data Stream
 |  |
 | ------- |
