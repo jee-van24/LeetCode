@@ -858,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jee-van24/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/jee-van24/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/jee-van24/LeetCode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/jee-van24/LeetCode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/jee-van24/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/jee-van24/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/jee-van24/LeetCode/tree/master/0263-ugly-number) |
@@ -1241,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/jee-van24/LeetCode/tree/master/0223-rectangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/jee-van24/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jee-van24/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/jee-van24/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
