@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jee-van24/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jee-van24/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jee-van24/LeetCode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jee-van24/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/jee-van24/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/jee-van24/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/jee-van24/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1132,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/jee-van24/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/jee-van24/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/jee-van24/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jee-van24/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/jee-van24/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/jee-van24/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/jee-van24/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1502,4 +1504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/jee-van24/LeetCode/tree/master/3310-remove-methods-from-project) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jee-van24/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
