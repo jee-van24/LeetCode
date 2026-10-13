@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-minimum-positive-sum-subarray](https://github.com/jee-van24/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/jee-van24/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/jee-van24/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/jee-van24/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3738-make-array-non-decreasing](https://github.com/jee-van24/LeetCode/tree/master/3738-make-array-non-decreasing) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/jee-van24/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/jee-van24/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jee-van24/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/jee-van24/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jee-van24/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/jee-van24/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3738-make-array-non-decreasing](https://github.com/jee-van24/LeetCode/tree/master/3738-make-array-non-decreasing) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jee-van24/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3980-minimum-operations-to-transform-binary-string](https://github.com/jee-van24/LeetCode/tree/master/3980-minimum-operations-to-transform-binary-string) |
@@ -855,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/jee-van24/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/jee-van24/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3634-minimum-removals-to-balance-array](https://github.com/jee-van24/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/jee-van24/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3748-sort-matrix-by-diagonals](https://github.com/jee-van24/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3859-maximum-product-of-two-digits](https://github.com/jee-van24/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Enumeration
