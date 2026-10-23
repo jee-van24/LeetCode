@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/jee-van24/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3634-minimum-removals-to-balance-array](https://github.com/jee-van24/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/jee-van24/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/jee-van24/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/jee-van24/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/jee-van24/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jee-van24/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -1241,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jee-van24/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jee-van24/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jee-van24/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/jee-van24/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/jee-van24/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
