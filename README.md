@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/jee-van24/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jee-van24/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/jee-van24/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jee-van24/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/jee-van24/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/jee-van24/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [4003-longest-fibonacci-subarray](https://github.com/jee-van24/LeetCode/tree/master/4003-longest-fibonacci-subarray) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/jee-van24/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/jee-van24/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/jee-van24/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jee-van24/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -1044,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/jee-van24/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/jee-van24/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/jee-van24/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jee-van24/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3980-minimum-operations-to-transform-binary-string](https://github.com/jee-van24/LeetCode/tree/master/3980-minimum-operations-to-transform-binary-string) |
 ## Memoization
 |  |
@@ -1246,6 +1249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jee-van24/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/jee-van24/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/jee-van24/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jee-van24/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
