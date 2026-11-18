@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/jee-van24/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jee-van24/LeetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jee-van24/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/jee-van24/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/jee-van24/LeetCode/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/jee-van24/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0846-hand-of-straights](https://github.com/jee-van24/LeetCode/tree/master/0846-hand-of-straights) |
@@ -1025,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/jee-van24/LeetCode/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/jee-van24/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/jee-van24/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0746-min-cost-climbing-stairs](https://github.com/jee-van24/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/jee-van24/LeetCode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/jee-van24/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/jee-van24/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
