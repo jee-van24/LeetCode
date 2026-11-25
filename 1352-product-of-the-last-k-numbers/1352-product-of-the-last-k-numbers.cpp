@@ -1,13 +1,11 @@
 class ProductOfNumbers {
 public:
-    vector<int>vec;
     vector<int>pref;
     ProductOfNumbers() {
         
     }
     
     void add(int num) {
-        vec.push_back(num);
         if(num==0){
             pref.clear();
             return;
